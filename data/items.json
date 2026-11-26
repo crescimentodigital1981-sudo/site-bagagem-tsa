@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "power-bank",
+    "name": "Power Bank (Portable Charger)",
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "carryOnStatus": "LIMITED",
+    "checkedStatus": "NO",
+    "shortAnswer": "Yes, you can bring power banks in your carry-on bag up to 100 Wh, but they are strictly prohibited in checked luggage.",
+    "tsaRuleDetail": "The TSA and FAA allow lithium-ion power banks and portable chargers in carry-on bags only. Because lithium batteries carry a fire risk in the cargo hold, they are never allowed in checked luggage. Standard power banks rated at 100 watt-hours (Wh) or less—roughly 27,000 mAh at 3.7V—are permitted in your cabin bag without airline approval. If your portable charger is between 101 Wh and 160 Wh, you must get explicit approval from your airline before flying, and you are limited to two spare batteries. Any power bank exceeding 160 Wh is completely banned on passenger aircraft.",
+    "packingTip": "Keep your power bank in an easy-to-reach outer pocket of your backpack or personal item so you can grab it quickly if security asks to inspect it. Make sure the capacity label in Wh or mAh is clearly visible, and use a small pouch to prevent the charging ports from short-circuiting against keys or coins.",
+    "amazonKeyword": "tsa approved power bank 20000mah",
+    "relatedSlugs": ["laptop", "shampoo", "razor", "peanut-butter"],
+    "faqs": [
+      {
+        "question": "Can I put a power bank in my checked luggage?",
+        "answer": "No. All spare lithium-ion batteries and power banks must be packed in your carry-on bag due to fire safety regulations."
+      },
+      {
+        "question": "What is the maximum mAh allowed for a power bank on a plane?",
+        "answer": "Most standard power banks up to 27,000 mAh (100 Wh) are allowed in carry-on luggage without special airline approval."
+      },
+      {
+        "question": "How many power banks can I bring in my carry-on?",
+        "answer": "TSA does not set a strict limit on power banks under 100 Wh for personal use, though airlines typically allow up to two larger batteries between 101 Wh and 160 Wh."
+      }
+    ]
+  },
+  {
+    "slug": "shampoo",
+    "name": "Shampoo",
+    "category": "Toiletries",
+    "categorySlug": "toiletries",
+    "carryOnStatus": "LIMITED",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, liquid shampoo is allowed in carry-on bags in containers of 3.4 oz (100 ml) or less, and full-size bottles are allowed in checked luggage.",
+    "tsaRuleDetail": "Liquid and gel shampoos fall under the TSA 3-1-1 liquids rule for carry-on luggage. Each container must hold 3.4 ounces (100 milliliters) or less, regardless of how much product is left inside the bottle. All of your travel-sized liquids, gels, and aerosols must fit comfortably inside a single quart-sized clear, zip-top plastic bag, with one bag allowed per passenger. If you want to bring full-size shampoo bottles larger than 3.4 oz (100 ml), you must pack them in your checked baggage. Solid shampoo bars are not considered liquids and have no size restrictions in either bag.",
+    "packingTip": "Transfer your favorite shampoo into leak-proof silicone travel bottles rated at 3 oz (89 ml) to stay safely under the TSA limit. Before screwing the cap on, place a small square of plastic wrap over the bottle opening to prevent leaks caused by cabin pressure changes during the flight.",
+    "amazonKeyword": "tsa approved silicone travel bottles 3oz",
+    "relatedSlugs": ["razor", "peanut-butter", "power-bank", "laptop"],
+    "faqs": [
+      {
+        "question": "Can I bring a half-empty 8 oz shampoo bottle in my carry-on?",
+        "answer": "No. TSA measures the total capacity of the container, not the amount of liquid left inside. The bottle itself must be 3.4 oz (100 ml) or smaller."
+      },
+      {
+        "question": "Does solid shampoo bar count as a liquid for TSA?",
+        "answer": "No. Solid shampoo bars are exempt from the 3-1-1 liquids rule and can be packed freely in your carry-on bag."
+      },
+      {
+        "question": "Can I pack full-size shampoo in checked baggage?",
+        "answer": "Yes, full-size shampoo bottles are allowed in checked luggage with no 3.4 oz restriction."
+      }
+    ]
+  },
+  {
+    "slug": "razor",
+    "name": "Razors (Disposable & Safety)",
+    "category": "Toiletries",
+    "categorySlug": "toiletries",
+    "carryOnStatus": "LIMITED",
+    "checkedStatus": "YES",
+    "shortAnswer": "Disposable and electric razors are allowed in carry-on bags, while loose safety razor blades and straight razors must go in checked luggage.",
+    "tsaRuleDetail": "TSA rules for razors depend on whether the blade is removable. Standard disposable razors and cartridge razors (like Gillette or Schick) where the blades are sealed inside plastic are completely allowed in both carry-on and checked bags. Electric razors and beard trimmers are also permitted in both bags. However, double-edge safety razor blades and straight razors with exposed or removable blades are strictly prohibited in carry-on luggage and must be packed in checked bags. You may bring an empty safety razor handle in your carry-on as long as the blade is removed before screening.",
+    "packingTip": "Always snap a plastic blade guard or travel case over your disposable or cartridge razor so you do not accidentally cut yourself when reaching into your toiletry bag. If you pack loose safety razor blades in your checked luggage, wrap them tightly in a hard tin or blade bank to protect baggage handlers.",
+    "amazonKeyword": "travel razor case protective cover",
+    "relatedSlugs": ["shampoo", "power-bank", "laptop", "peanut-butter"],
+    "faqs": [
+      {
+        "question": "Can I bring a disposable razor in my carry-on bag?",
+        "answer": "Yes. Disposable razors and replacement cartridges are allowed in carry-on luggage."
+      },
+      {
+        "question": "Are electric razors allowed on a plane?",
+        "answer": "Yes, electric shavers and trimmers are allowed in both carry-on and checked bags, though rechargeable ones with lithium batteries are best kept in carry-on."
+      },
+      {
+        "question": "Can I bring a safety razor without the blade in my carry-on?",
+        "answer": "Yes, an empty safety razor handle is allowed in your carry-on, but the removable metal blades must be packed in checked luggage."
+      }
+    ]
+  },
+  {
+    "slug": "laptop",
+    "name": "Laptop",
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, laptops are allowed in both carry-on and checked luggage, though TSA and airlines strongly recommend keeping them in your carry-on.",
+    "tsaRuleDetail": "Laptops are permitted in both carry-on and checked bags on domestic and international flights. Most laptop batteries fall well under the 100 watt-hour (Wh) FAA limit for lithium-ion batteries installed inside devices. At standard airport security checkpoints, you will usually need to remove your laptop from its bag and place it flat in a separate screening bin with nothing on top or underneath it, unless you have TSA PreCheck or are passing through a lane with newer 3D CT scanners. While checked bags are allowed, airlines do not cover electronics for damage or theft in checked luggage.",
+    "packingTip": "Slide your laptop into a padded sleeve inside a dedicated quick-access backpack compartment so you can pull it out in seconds at the security line. Make sure your laptop has enough battery charge to power on, as TSA officers can occasionally ask you to turn on electronic devices during screening.",
+    "amazonKeyword": "tsa friendly laptop backpack padded sleeve",
+    "relatedSlugs": ["power-bank", "shampoo", "razor", "peanut-butter"],
+    "faqs": [
+      {
+        "question": "Do I have to take my laptop out of my bag at TSA?",
+        "answer": "In standard screening lanes, yes, laptops must be placed in a separate bin. If you have TSA PreCheck or use a lane with 3D CT scanners, you can usually leave it inside."
+      },
+      {
+        "question": "Can I bring two laptops in my carry-on?",
+        "answer": "Yes. TSA does not limit the number of personal laptops you can bring, though each one may need its own bin during screening."
+      },
+      {
+        "question": "Should I put my laptop in checked luggage?",
+        "answer": "It is allowed if completely powered off, but strongly discouraged due to the risk of theft, rough handling, and battery safety rules."
+      }
+    ]
+  },
+  {
+    "slug": "peanut-butter",
+    "name": "Peanut Butter",
+    "category": "Food & Drink",
+    "categorySlug": "food-and-drink",
+    "carryOnStatus": "LIMITED",
+    "checkedStatus": "YES",
+    "shortAnswer": "Peanut butter is treated as a liquid by TSA, so carry-on containers must be 3.4 oz (100 ml) or less, while full jars must go in checked bags.",
+    "tsaRuleDetail": "Because peanut butter is a spreadable paste, TSA classifies it under the 3-1-1 liquids, gels, and aerosols rule. This means any jar or squeeze pouch of peanut butter in your carry-on bag must be 3.4 ounces (100 milliliters) or smaller and fit inside your single quart-sized clear plastic bag. Standard grocery store jars are over this limit and will be confiscated at security if found in your carry-on. However, you can pack full-size jars of peanut butter in your checked luggage with no size limits. Peanut butter already spread inside a sandwich is generally allowed through security.",
+    "packingTip": "If you want peanut butter for the flight, buy single-serve squeeze packs rated around 1.15 oz (32 g) so they pass TSA security effortlessly inside your liquids bag. If you are checking a full glass or plastic jar, seal it inside a gallon zip-top bag and wrap it in soft clothing.",
+    "amazonKeyword": "single serve peanut butter squeeze packs travel",
+    "relatedSlugs": ["shampoo", "power-bank", "laptop", "razor"],
+    "faqs": [
+      {
+        "question": "Can I bring a peanut butter sandwich through TSA?",
+        "answer": "Yes. A prepared sandwich with peanut butter spread inside is considered solid food and is allowed in your carry-on bag."
+      },
+      {
+        "question": "Why is peanut butter considered a liquid by TSA?",
+        "answer": "TSA rules state that any item you can pour, pump, squeeze, spread, smear, spray, or spill must follow the 3.4 oz (100 ml) carry-on limit."
+      },
+      {
+        "question": "Can I bring powdered peanut butter in my carry-on?",
+        "answer": "Yes, powdered peanut butter is allowed, though powder containers larger than 12 oz (350 ml) must be placed in a separate bin for additional screening."
+      }
+    ]
+  }
+]
