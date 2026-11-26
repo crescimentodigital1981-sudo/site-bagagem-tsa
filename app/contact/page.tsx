@@ -12,18 +12,18 @@ export default function ContactPage() {
       <h1 className="text-3xl font-extrabold text-slate-900">Contact Us</h1>
       <p className="text-slate-700 leading-relaxed">
         Have a question about a specific item, noticed a rule update, or want to
-        suggest a new TSA guide for {SITE_NAME}? We would love to hear from you.
+        suggest a new TSA guide for {SITE_NAME} We would love to hear from you.
       </p>
       <p className="text-slate-700 leading-relaxed">
         You can reach our editorial team by email at:{" "}
         <a
-          href="mailto:contact@example.com"
+          href="mailto:contact.canibringthis@gmail.com"
           className="text-blue-700 font-semibold hover:underline"
         >
-          contact@example.com
+          contact.canibringthis@gmail.com
         </a>
       </p>
-      <p className="text-sm text-slate-500 pt-2">
+      <p className="text-sm text-slate-500 leading-relaxed">
         Please note that we cannot answer urgent flight-specific questions or
         override airport security decisions. For immediate travel assistance,
         contact your airline or the TSA directly.
