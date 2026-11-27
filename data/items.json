@@ -61,8 +61,8 @@
     "carryOnStatus": "LIMITED",
     "checkedStatus": "NO",
     "shortAnswer": "Yes, vapes and e-cigarettes are allowed in carry-on bags only, and are strictly prohibited in checked luggage.",
-    "tsaRuleDetail": "Because vapes, e-cigarettes, and vape pens contain lithium-ion batteries and heating elements, FAA and TSA regulations ban them completely from checked baggage. You must carry them on your person or inside your carry-on bag. Any liquid e-juice or refill pods must follow the TSA 3-1-1 liquids rule (3.4 oz / 100 ml or less per bottle inside your quart-sized clear bag). Charging or using a vape anywhere inside the aircraft is strictly illegal under federal law.",
-    "packingTip": "Disconnect the tank or pod from the battery before boarding to prevent accidental activation and pressure-induced e-liquid leaks during the flight. Store your vape inside a small zippered case with a paper towel wrapped around the pod.",
+    "tsaRuleDetail": "Because vapes, e-cigarettes, vaporizers, and disposable vape pens contain lithium-ion batteries and heating elements, FAA and TSA regulations ban them completely from checked baggage. You must carry all vaping devices on your person or inside your carry-on bag so crew members can respond quickly if a battery overheats. Any liquid e-juice bottles or refillable pods must follow the TSA 3-1-1 liquids rule, meaning each container must be 3.4 oz (100 ml) or less and fit inside your single quart-sized clear plastic bag. Charging or using a vape anywhere inside an aircraft is strictly illegal under federal law.",
+    "packingTip": "Disconnect the tank or pod from the battery before boarding and turn the device completely off to prevent accidental activation and pressure-induced e-liquid leaks during the flight. Store your vape inside a small hard-shell zippered case with a paper towel wrapped around the pod.",
     "amazonKeyword": "smell proof vape travel case hard shell",
     "relatedSlugs": ["power-bank", "lighters", "laptop", "shampoo"],
     "faqs": [
@@ -82,28 +82,28 @@
   },
   {
     "slug": "hair-dryer",
-    "name": "Hair Dryer & Flat Iron",
+    "name": "Hair Dryer (Blow Dryer)",
     "category": "Electronics",
     "categorySlug": "electronics",
     "carryOnStatus": "YES",
     "checkedStatus": "YES",
-    "shortAnswer": "Yes, corded hair dryers, curling irons, and flat irons are allowed in both carry-on and checked bags, while cordless models face battery restrictions.",
-    "tsaRuleDetail": "Standard plug-in hair styling tools—including blow dryers, flat irons, and curling wands—are permitted in both carry-on and checked luggage with no special size limits. However, cordless curling irons or straighteners powered by gas cartridges or butane are only allowed in carry-on bags with a safety cover securely fitted over the heating element, and spare gas cartridges are banned altogether. Cordless tools with lithium-ion batteries must generally stay in your carry-on bag.",
-    "packingTip": "Wrap your flat iron or curling wand in a heat-resistant silicone travel mat so you can pack it safely right after getting ready for an early flight. For international trips, check whether your tool is dual-voltage before plugging it in abroad.",
+    "shortAnswer": "Yes, standard plug-in hair dryers and travel blow dryers are allowed in both carry-on and checked luggage with no size restrictions.",
+    "tsaRuleDetail": "TSA permits standard corded hair dryers, travel blow dryers, blow-dry brushes, and diffusers in both carry-on and checked bags on domestic and international flights. Because plug-in hair dryers do not contain lithium batteries or fuel cartridges, there are no special watt-hour or size restrictions beyond your airline's standard carry-on dimensions. Unlike laptops, you generally do not need to remove a hair dryer from your carry-on bag at airport security checkpoints. If you own a rare cordless battery-powered blow dryer, its lithium-ion battery must stay under 100 Wh and remain inside your carry-on luggage.",
+    "packingTip": "Choose a lightweight folding dual-voltage travel hair dryer if you fly internationally, because standard US 120V blow dryers can overheat or blow fuses when plugged into European 220V outlets. Wrap the power cord loosely with a silicone tie and tuck the nozzle inside a soft cloth pouch.",
     "amazonKeyword": "dual voltage travel hair dryer folding",
-    "relatedSlugs": ["electric-toothbrush", "shampoo", "perfume", "laptop"],
+    "relatedSlugs": ["hair-straightener", "curling-iron", "dry-shampoo", "electric-toothbrush"],
     "faqs": [
       {
         "question": "Do I need to take my hair dryer out of my bag at security?",
-        "answer": "Usually no, unlike laptops, small hair dryers can stay inside your carry-on unless a TSA officer requests additional screening."
+        "answer": "Usually no. Unlike laptops, hair dryers can stay inside your carry-on bag during X-ray screening unless a TSA officer asks for a closer look."
       },
       {
-        "question": "Are cordless flat irons allowed on planes?",
-        "answer": "Cordless lithium-battery flat irons are generally allowed in carry-on bags only if the battery is removable or has a flight-mode safety lock; check your airline's specific policy."
+        "question": "Can I bring a Dyson Supersonic or Airwrap in my carry-on?",
+        "answer": "Yes, corded Dyson hair dryers, Airwraps, and blow-dry brushes are completely allowed in both carry-on and checked luggage."
       },
       {
-        "question": "Can I bring a Dyson Airwrap in my carry-on?",
-        "answer": "Yes, corded Dyson Airwraps and hair dryers are allowed in both carry-on and checked luggage."
+        "question": "Are diffuser attachments allowed on airplanes?",
+        "answer": "Yes, plastic and silicone hair dryer diffusers and concentrator nozzles are permitted in both carry-on and checked bags."
       }
     ]
   },
@@ -115,10 +115,10 @@
     "carryOnStatus": "YES",
     "checkedStatus": "YES",
     "shortAnswer": "Yes, electric toothbrushes are allowed in both carry-on and checked bags, though rechargeable lithium-ion models are safest in carry-on.",
-    "tsaRuleDetail": "TSA permits electric toothbrushes in both carry-on and checked luggage. If your toothbrush uses standard alkaline AA or AAA batteries, you can pack it in either bag without concern. If it has a built-in rechargeable lithium-ion battery, FAA guidelines allow it in checked luggage only if it is completely protected against accidental activation, though keeping it in your carry-on bag is strongly recommended.",
-    "packingTip": "Always pack your electric toothbrush in a hard travel case so the power button cannot be pressed accidentally inside your luggage—a vibrating bag can trigger a manual bag search by TSA.",
+    "tsaRuleDetail": "TSA permits electric toothbrushes, sonic brushes, and spare brush heads in both carry-on and checked luggage on all flights. If your toothbrush uses standard alkaline AA or AAA batteries, you can pack it in either bag without concern. If it has a built-in rechargeable lithium-ion battery (like most Oral-B or Philips Sonicare models), FAA safety guidelines allow it in checked luggage only if it is completely powered off and protected against accidental activation. However, keeping rechargeable toothbrushes in your carry-on bag is strongly recommended to avoid battery issues and baggage damage.",
+    "packingTip": "Always pack your electric toothbrush in a rigid travel case or engage its built-in travel lock so the power button cannot be pressed accidentally inside your luggage. A vibrating suitcase can trigger a manual bag inspection by TSA officers and drain your battery before you arrive.",
     "amazonKeyword": "electric toothbrush travel case hard shell",
-    "relatedSlugs": ["toothpaste", "razor", "power-bank", "hair-dryer"],
+    "relatedSlugs": ["toothpaste", "electric-razor", "power-bank", "hair-dryer"],
     "faqs": [
       {
         "question": "Do I need to take my electric toothbrush out of my carry-on?",
@@ -168,23 +168,23 @@
     "categorySlug": "toiletries",
     "carryOnStatus": "LIMITED",
     "checkedStatus": "YES",
-    "shortAnswer": "Disposable and electric razors are allowed in carry-on bags, while loose safety razor blades and straight razors must go in checked luggage.",
-    "tsaRuleDetail": "TSA rules for razors depend on whether the blade is removable. Standard disposable razors and cartridge razors (like Gillette or Schick) where the blades are sealed inside plastic are completely allowed in both carry-on and checked bags. Electric razors and beard trimmers are also permitted in both bags. However, double-edge safety razor blades and straight razors with exposed or removable blades are strictly prohibited in carry-on luggage and must be packed in checked bags. You may bring an empty safety razor handle in your carry-on as long as the blade is removed before screening.",
-    "packingTip": "Always snap a plastic blade guard or travel case over your disposable or cartridge razor so you do not accidentally cut yourself when reaching into your toiletry bag. If you pack loose safety razor blades in your checked luggage, wrap them tightly in a hard tin or blade bank to protect baggage handlers.",
+    "shortAnswer": "Disposable and cartridge razors are allowed in carry-on bags, while loose safety razor blades and straight razors must go in checked luggage.",
+    "tsaRuleDetail": "TSA rules for manual razors depend on whether the blade is fixed or removable. Standard disposable razors and cartridge razors (like Gillette, Schick, or Billie) where the blades are sealed inside plastic cartridges are completely allowed in both carry-on and checked bags, along with extra sealed replacement cartridges. However, double-edge safety razor blades and straight razors with exposed or removable metal blades are strictly prohibited in carry-on luggage and must be packed in checked bags. You may bring an empty safety razor handle in your carry-on as long as the blade is removed before screening.",
+    "packingTip": "Always snap a plastic blade guard or hard travel cover over your disposable or cartridge razor so you do not accidentally cut yourself when reaching into your toiletry bag. If you pack loose safety razor blades in your checked luggage, seal them in a hard tin or blade bank to protect baggage handlers.",
     "amazonKeyword": "travel razor case protective cover",
-    "relatedSlugs": ["nail-clippers", "shampoo", "deodorant", "scissors"],
+    "relatedSlugs": ["electric-razor", "nail-clippers", "shampoo", "scissors"],
     "faqs": [
       {
         "question": "Can I bring a disposable razor in my carry-on bag?",
-        "answer": "Yes. Disposable razors and replacement cartridges are allowed in carry-on luggage."
-      },
-      {
-        "question": "Are electric razors allowed on a plane?",
-        "answer": "Yes, electric shavers and trimmers are allowed in both carry-on and checked bags, though rechargeable ones with lithium batteries are best kept in carry-on."
+        "answer": "Yes. Disposable razors and sealed replacement cartridges are completely allowed in carry-on luggage."
       },
       {
         "question": "Can I bring a safety razor without the blade in my carry-on?",
         "answer": "Yes, an empty safety razor handle is allowed in your carry-on, but the removable metal blades must be packed in checked luggage."
+      },
+      {
+        "question": "Are straight razors allowed in checked baggage?",
+        "answer": "Yes, straight razors and loose razor blades are allowed in checked luggage as long as they are safely sheathed or wrapped."
       }
     ]
   },
@@ -197,7 +197,7 @@
     "checkedStatus": "YES",
     "shortAnswer": "Yes, perfume and cologne bottles of 3.4 oz (100 ml) or less are allowed in carry-on bags, while larger bottles must be packed in checked luggage.",
     "tsaRuleDetail": "Perfume and cologne are classified as liquids under the TSA 3-1-1 rule. Many standard retail fragrance bottles are sold in 3.4 oz (100 ml) or 1.7 oz (50 ml) sizes, which means they are allowed in your carry-on as long as they fit comfortably inside your single quart-sized clear plastic bag. Larger bottles (such as 4.2 oz / 125 ml or 6.7 oz / 200 ml) must go in your checked luggage. Under FAA hazardous materials rules for checked bags, medicinal and toiletry aerosols or alcohol-based perfumes are limited to 18 oz (500 ml) per container and 68 oz (2 liters) total per passenger.",
-    "packingTip": "Instead of risking a broken glass designer bottle in your luggage, pump a few days' worth of your fragrance into a compact 5 ml refillable travel atomizer that takes up almost zero space in your liquids bag.",
+    "packingTip": "Instead of risking a broken glass designer bottle in your luggage, pump a few days' worth of your fragrance into a compact 5 ml refillable travel atomizer that takes up almost zero space in your liquids bag and slips easily into a protective pouch.",
     "amazonKeyword": "refillable travel perfume atomizer 5ml",
     "relatedSlugs": ["shampoo", "deodorant", "sunscreen", "hand-sanitizer"],
     "faqs": [
@@ -223,8 +223,8 @@
     "carryOnStatus": "LIMITED",
     "checkedStatus": "YES",
     "shortAnswer": "Solid stick deodorant is allowed in carry-on bags with no size limit, while gel, roll-on, and aerosol spray deodorants must be 3.4 oz (100 ml) or less.",
-    "tsaRuleDetail": "TSA treats deodorant differently depending on its formula. Standard solid stick and crystal deodorants are not liquids and can be packed in your carry-on bag in any size without going inside your quart-sized liquids bag. However, gel, cream, liquid roll-on, and aerosol spray deodorants are subject to the 3-1-1 rule—they must be in containers of 3.4 oz (100 ml) or smaller for carry-on. Full-size sprays and gels are permitted in checked luggage as long as spray nozzles have protective caps.",
-    "packingTip": "Switch to a solid stick deodorant when traveling carry-on only so you save valuable space in your quart-sized liquids bag for items like sunscreen, contact solution, or perfume.",
+    "tsaRuleDetail": "TSA treats deodorant differently depending on its formula and consistency. Standard solid stick deodorants, powder sticks, and mineral crystal deodorants are not liquids and can be packed in your carry-on bag in any size without taking up space in your quart-sized liquids bag. However, gel, cream, liquid roll-on, and aerosol spray antiperspirants are all subject to the 3-1-1 rule—they must be in containers of 3.4 oz (100 ml) or smaller for carry-on. Full-size aerosol sprays and gels up to 18 oz (500 ml) are permitted in checked luggage as long as spray nozzles have protective caps.",
+    "packingTip": "Switch to a solid stick deodorant whenever you travel carry-on only so you save valuable room inside your quart-sized clear liquids bag for essential items like sunscreen, contact lens solution, toothpaste, or perfume. Keep the cap snapped tight to prevent smudges.",
     "amazonKeyword": "travel size solid deodorant tsa approved",
     "relatedSlugs": ["shampoo", "perfume", "toothpaste", "sunscreen"],
     "faqs": [
@@ -250,8 +250,8 @@
     "carryOnStatus": "LIMITED",
     "checkedStatus": "YES",
     "shortAnswer": "Liquid, lotion, and spray sunscreens must be 3.4 oz (100 ml) or less in carry-on bags, while solid sunscreen sticks and full-size checked bottles are allowed.",
-    "tsaRuleDetail": "Sunscreen lotions, creams, oils, and aerosol sprays all fall under the TSA 3-1-1 liquids rule for carry-on luggage. Every bottle or spray can in your carry-on must be 3.4 oz (100 ml) or smaller and fit inside your quart-sized clear plastic bag. Solid sunscreen sticks and mineral powder sunscreens are not classified as liquids and have no size restriction in carry-on bags. Full-size sunscreen bottles and aerosol cans are allowed in checked baggage.",
-    "packingTip": "Pack a solid facial sunscreen stick in your carry-on for quick reapplication and save your 3.4 oz liquid slots for body lotion—or buy a full-size bottle after you land if you are traveling carry-on only for a beach trip.",
+    "tsaRuleDetail": "Sunscreen lotions, creams, oils, gels, and aerosol sprays all fall under the TSA 3-1-1 liquids rule for carry-on luggage. Every bottle, tube, or spray can in your carry-on must be labeled 3.4 oz (100 ml) or smaller and fit comfortably inside your single quart-sized clear plastic bag. Remember that TSA measures the printed bottle size, not how much lotion remains inside. Solid wax-based sunscreen sticks and dry mineral powder sunscreens are not classified as liquids and have no size restriction in carry-on bags. Full-size sunscreen bottles and capped aerosol cans are allowed in checked baggage.",
+    "packingTip": "Pack a solid facial sunscreen stick in your carry-on for quick reapplication and save your 3.4 oz liquid slots for body lotion—or buy a full-size bottle after you land if you are flying carry-on only for a week-long beach vacation.",
     "amazonKeyword": "tsa approved travel size sunscreen 3oz",
     "relatedSlugs": ["shampoo", "deodorant", "perfume", "water-bottle"],
     "faqs": [
@@ -277,8 +277,8 @@
     "carryOnStatus": "LIMITED",
     "checkedStatus": "YES",
     "shortAnswer": "Yes, toothpaste is allowed in carry-on bags in tubes of 3.4 oz (100 ml) or less, and full-size tubes are allowed in checked luggage.",
-    "tsaRuleDetail": "Because toothpaste is a squeezable paste/gel, TSA enforces the 3-1-1 liquids rule on all carry-on tubes. Your toothpaste tube must be labeled 3.4 oz (100 ml) or less—even if a larger 6 oz tube is almost completely empty, TSA officers can still confiscate it because they judge by the container's printed capacity. If you want to avoid the liquid rule altogether, dry toothpaste tablets and tooth powders are allowed in carry-on bags with no liquid restrictions.",
-    "packingTip": "Keep a 0.85 oz to 3 oz travel-size toothpaste tube permanently packed in your clear toiletry bag, or switch to chewable toothpaste tablets for zero-mess carry-on travel.",
+    "tsaRuleDetail": "Because toothpaste is a squeezable paste or gel, TSA strictly enforces the 3-1-1 liquids rule on all carry-on tubes. Your toothpaste tube must be labeled 3.4 oz (100 ml) or less and fit inside your single quart-sized clear plastic bag. Even if a regular 5 oz or 6 oz family-size tube is almost completely empty, TSA officers can still confiscate it because they judge by the container's printed volume. Full-size tubes are always allowed in checked luggage. If you want to skip the liquid rule altogether, dry toothpaste tablets and tooth powders have no liquid restrictions in carry-on bags.",
+    "packingTip": "Keep a dedicated 0.85 oz to 3 oz travel-size toothpaste tube permanently packed inside your clear TSA toiletry bag so you never accidentally grab your full-size bathroom tube on travel morning, or switch to chewable toothpaste tablets for zero-mess flights.",
     "amazonKeyword": "travel toothpaste tablets tsa approved",
     "relatedSlugs": ["electric-toothbrush", "shampoo", "deodorant", "contact-lens-solution"],
     "faqs": [
@@ -304,8 +304,8 @@
     "carryOnStatus": "YES",
     "checkedStatus": "YES",
     "shortAnswer": "Yes, standard nail clippers, nail files, and tweezers are allowed in both carry-on and checked luggage.",
-    "tsaRuleDetail": "TSA allows standard fingernail and toenail clippers, tweezers, metal cuticle pushers, and emery boards in both carry-on and checked bags. Nail clippers with a small fold-out file are also permitted. However, if your grooming kit includes sharp scissors with blades longer than 4 inches from the pivot point, or razor-style callus shavers with removable blades, those specific tools must go in checked luggage.",
-    "packingTip": "Keep your nail clippers, tweezers, and nail file zipped inside a compact manicure travel kit so small metal items do not get lost at the bottom of your carry-on or poke through fabric pockets.",
+    "tsaRuleDetail": "TSA allows standard fingernail clippers, toenail clippers, tweezers, metal cuticle pushers, and glass or metal nail files in both carry-on and checked bags on domestic and international flights. Standard nail clippers that include a tiny fold-out metal nail file are also completely permitted through security checkpoints. However, if your manicure set includes sharp grooming scissors with blades longer than 4 inches (10 cm) from the pivot point, or razor-style callus shavers with exposed removable blades, you must remove those specific pieces and pack them in your checked luggage.",
+    "packingTip": "Keep your nail clippers, tweezers, cuticle trimmer, and nail file neatly zipped inside a compact hard-shell travel manicure case so small sharp metal tools do not get lost at the bottom of your carry-on bag or poke through fabric pockets.",
     "amazonKeyword": "tsa approved travel manicure kit",
     "relatedSlugs": ["scissors", "razor", "pocket-knife", "deodorant"],
     "faqs": [
@@ -359,17 +359,17 @@
     "checkedStatus": "LIMITED",
     "shortAnswer": "Mini bottles of 3.4 oz (100 ml) or less are allowed in carry-on bags, while full-size bottles (under 70% ABV) must go in checked luggage.",
     "tsaRuleDetail": "TSA allows miniature alcohol bottles (typically 50 ml / 1.7 oz) in your carry-on bag as long as they fit comfortably inside your single quart-sized liquids bag and are under 70% alcohol by volume (140 proof). However, FAA regulations strictly prohibit drinking your own alcohol on board an airplane—only alcohol served by a flight attendant may be consumed in flight. In checked luggage, unopened retail bottles under 24% ABV (like wine and beer) have no quantity limit, while spirits between 24% and 70% ABV are limited to 5 liters (1.3 gallons) per passenger. Alcohol over 70% ABV (140 proof), such as Everclear, is banned in both bags.",
-    "packingTip": "When packing wine or liquor bottles in checked luggage, slide each bottle into an inflatable or padded leak-proof wine protector sleeve so a rough baggage drop does not ruin your clothes.",
+    "packingTip": "When packing liquor bottles in checked luggage, slide each glass bottle into an inflatable or padded leak-proof bottle protector sleeve and place it in the center of your suitcase surrounded by soft clothing so a rough baggage drop never ruins your wardrobe.",
     "amazonKeyword": "wine bottle travel protector sleeves checked luggage",
-    "relatedSlugs": ["water-bottle", "snacks-solid-food", "peanut-butter", "perfume"],
+    "relatedSlugs": ["wine", "water-bottle", "snacks-solid-food", "peanut-butter"],
     "faqs": [
       {
         "question": "Can I drink mini liquor bottles I brought through TSA on the plane?",
         "answer": "No. Federal law prohibits passengers from consuming personal alcohol aboard a commercial aircraft unless served by flight crew."
       },
       {
-        "question": "How many bottles of wine can I put in checked luggage?",
-        "answer": "Because wine is under 24% ABV, TSA does not limit the number of bottles in checked luggage—only your airline's weight limit and customs rules for international flights apply."
+        "question": "How much hard liquor can I put in checked luggage?",
+        "answer": "Unopened retail bottles of spirits between 24% and 70% ABV are limited to 5 liters (1.3 gallons) per passenger in checked luggage."
       },
       {
         "question": "Can I bring duty-free alcohol in my carry-on?",
@@ -386,7 +386,7 @@
     "checkedStatus": "YES",
     "shortAnswer": "Yes, empty reusable water bottles are allowed in carry-on bags, while full water bottles are prohibited through security.",
     "tsaRuleDetail": "You can bring any empty reusable water bottle—plastic, glass, or insulated stainless steel (such as Hydro Flask, Yeti, or Stanley)—through airport security in your carry-on bag. Once you pass the TSA checkpoint, you can fill it up for free at airport hydration stations. Full water bottles or any bottle containing more than 3.4 oz (100 ml) of liquid will be stopped at security. One helpful exception: completely frozen solid ice inside a water bottle is allowed through TSA as long as there is no melted liquid at the bottom.",
-    "packingTip": "Empty your bottle before joining the security line and clip it to your backpack or store it in a side pocket so you can refill it right after screening and avoid paying inflated airport water prices.",
+    "packingTip": "Empty your bottle before joining the security line and clip it to your backpack or store it in an outer side pocket so you can refill it at the fountain right after screening and avoid paying inflated airport bottled-water prices.",
     "amazonKeyword": "collapsible travel water bottle leak proof",
     "relatedSlugs": ["snacks-solid-food", "protein-powder", "alcohol", "baby-formula"],
     "faqs": [
@@ -413,7 +413,7 @@
     "checkedStatus": "YES",
     "shortAnswer": "Yes, protein powder is allowed in both carry-on and checked bags, though carry-on containers over 12 oz (350 ml) require extra screening.",
     "tsaRuleDetail": "TSA allows protein powder, pre-workout, collagen, and other dietary powders in both carry-on and checked luggage. However, under TSA's powder-screening rule, any powder-like substance in a carry-on container larger than 12 oz (350 ml)—roughly the size of a standard soda can—must be removed from your bag and placed in a separate bin for additional X-ray or swab screening. If officers cannot clear the powder during inspection, they may require it to be placed in checked luggage. Ready-to-drink liquid protein shakes over 3.4 oz are not allowed in carry-on bags.",
-    "packingTip": "Portion out the exact number of scoops you need into clearly labeled single-serve travel funnels or keep small amounts under 12 oz in their original labeled packaging so TSA agents can identify the powder quickly.",
+    "packingTip": "Portion out the exact number of scoops you need into clearly labeled single-serve travel funnels or keep small amounts under 12 oz in their original labeled packaging so TSA agents can identify the powder quickly without delaying your trip.",
     "amazonKeyword": "protein powder travel funnel container",
     "relatedSlugs": ["snacks-solid-food", "water-bottle", "peanut-butter", "prescription-medication"],
     "faqs": [
@@ -440,9 +440,9 @@
     "checkedStatus": "YES",
     "shortAnswer": "Yes, solid foods like sandwiches, chips, fruit, candy, and baked goods are allowed in both carry-on and checked bags.",
     "tsaRuleDetail": "Solid food items are completely permitted through TSA checkpoints on domestic flights. You can bring sandwiches, pizza, burritos, cookies, protein bars, chips, nuts, fresh fruit, and dry cereal in your carry-on bag with no size limit. However, any food that is liquid, creamy, or spreadable—such as soup, yogurt, salsa, hummus, gravy, or jam—must follow the 3.4 oz (100 ml) liquids rule. If you are flying internationally, remember that customs agencies strictly restrict bringing fresh fruits, vegetables, and meats across borders.",
-    "packingTip": "Pack your snacks in a single easy-to-pull-out pouch near the top of your carry-on, because dense foods like cheese blocks, sandwiches, or pastries can sometimes look unusual on X-ray scans and prompt a quick visual check.",
+    "packingTip": "Pack your snacks in a single easy-to-pull-out pouch near the top of your carry-on, because dense foods like cheese blocks, sandwiches, or pastries can sometimes look unusual on X-ray scans and prompt a quick visual check by security.",
     "amazonKeyword": "bento travel snack container leak proof",
-    "relatedSlugs": ["peanut-butter", "water-bottle", "protein-powder", "baby-formula"],
+    "relatedSlugs": ["protein-bars", "cheese", "peanut-butter", "water-bottle"],
     "faqs": [
       {
         "question": "Can I bring fast food or a sandwich through TSA?",
@@ -467,9 +467,9 @@
     "checkedStatus": "YES",
     "shortAnswer": "Yes, prescription pills and medically necessary liquid medications are allowed in carry-on bags, and liquids are exempt from the 3.4 oz limit.",
     "tsaRuleDetail": "TSA allows all prescription and over-the-counter medications in both carry-on and checked luggage, though you should always pack essential medicine in your carry-on in case your checked bag is delayed or lost. Pill medications have no quantity limit for personal travel. Medically necessary liquid, gel, and aerosol medications—including insulin, inhalers, and cough syrup—are allowed in reasonable quantities exceeding 3.4 oz (100 ml). Simply declare larger liquid medications to the TSA officer at the checkpoint for separate screening.",
-    "packingTip": "Keep prescriptions in their original pharmacy bottles with your name clearly printed on the label, especially for international trips, and use a compact travel pill organizer only as a backup once you arrive.",
+    "packingTip": "Keep prescriptions in their original pharmacy bottles with your name clearly printed on the label, especially for international trips, and use a compact travel pill organizer only as a backup once you arrive at your destination.",
     "amazonKeyword": "tsa travel pill organizer waterproof case",
-    "relatedSlugs": ["contact-lens-solution", "hand-sanitizer", "baby-formula", "protein-powder"],
+    "relatedSlugs": ["insulin", "inhaler", "epipen", "vitamins"],
     "faqs": [
       {
         "question": "Do pills have to be in their original prescription bottles for TSA?",
@@ -494,7 +494,7 @@
     "checkedStatus": "YES",
     "shortAnswer": "Yes, contact lens solution is considered medically necessary by TSA and is allowed in carry-on bags in sizes over 3.4 oz (100 ml) if declared.",
     "tsaRuleDetail": "TSA classifies contact lens solution and saline eye drops as medically necessary liquids. This means you are allowed to bring a full-size bottle larger than 3.4 oz (100 ml) in your carry-on bag without placing it inside your quart-sized 3-1-1 bag. However, you must remove bottles over 3.4 oz from your carry-on and inform the TSA officer at the checkpoint so they can perform a quick vapor or X-ray test. Bottles of 3.4 oz (100 ml) or smaller can simply go inside your standard quart-sized liquids bag with no extra steps.",
-    "packingTip": "If you want to breeze through security without waiting for extra liquid screening, pack a 2 oz or 3 oz travel-size bottle of contact solution inside your quart-sized bag—it is usually plenty for a week-long trip.",
+    "packingTip": "If you want to breeze through security without waiting for extra liquid screening, pack a 2 oz or 3 oz travel-size bottle of contact solution inside your quart-sized bag—it is usually plenty for a week-long trip and saves time.",
     "amazonKeyword": "travel size contact lens solution 2oz",
     "relatedSlugs": ["prescription-medication", "hand-sanitizer", "shampoo", "toothpaste"],
     "faqs": [
@@ -521,7 +521,7 @@
     "checkedStatus": "YES",
     "shortAnswer": "Yes, liquid and gel hand sanitizer is allowed in carry-on bags in containers of 3.4 oz (100 ml) or less, while sanitizing wipes have no limit.",
     "tsaRuleDetail": "Liquid, gel, and spray hand sanitizers fall under the standard TSA 3-1-1 liquids rule. Each bottle in your carry-on bag must be 3.4 oz (100 ml) or smaller and fit inside your single quart-sized clear plastic bag. (The temporary 12 oz pandemic exemption is no longer in effect.) Full-size bottles of hand sanitizer are allowed in checked luggage, and individually wrapped or pack-style alcohol hand wipes are not considered liquids and can be packed freely in your carry-on.",
-    "packingTip": "Clip a 1 oz or 2 oz silicone-sleeved hand sanitizer bottle to the outside of your personal item after clearing security, or pack travel-size disinfecting wipes to clean your tray table and armrests.",
+    "packingTip": "Clip a 1 oz or 2 oz silicone-sleeved hand sanitizer bottle to the outside of your personal item after clearing security, or pack travel-size disinfecting wipes to clean your airplane tray table, seatbelt buckle, and armrests effortlessly.",
     "amazonKeyword": "travel size hand sanitizer spray tsa approved",
     "relatedSlugs": ["prescription-medication", "contact-lens-solution", "perfume", "shampoo"],
     "faqs": [
@@ -548,9 +548,9 @@
     "checkedStatus": "YES",
     "shortAnswer": "Yes, baby formula, breast milk, toddler drinks, and baby food pouches are allowed in carry-on bags in reasonable quantities over 3.4 oz (100 ml).",
     "tsaRuleDetail": "TSA considers baby formula, breast milk, toddler drinks, and liquid baby food medically necessary items, which makes them completely exempt from the 3-1-1 liquids rule. You may bring reasonable quantities larger than 3.4 oz (100 ml) in your carry-on bag—even if you are traveling without your baby. Ice packs, freezer packs, and frozen gel packs used to cool breast milk or formula are also allowed in carry-on luggage. At security, remove these items from your bag and let the TSA officer know before screening.",
-    "packingTip": "Use clear, translucent baby bottles or pouches rather than opaque metal containers when possible, because clear containers can often be screened with TSA bottle scanners without needing to be opened.",
+    "packingTip": "Use clear, translucent baby bottles or pouches rather than opaque metal containers when possible, because clear containers can often be screened with TSA bottle scanners without needing to be opened or swabbed during security inspection.",
     "amazonKeyword": "insulated breast milk cooler bag travel tsa",
-    "relatedSlugs": ["prescription-medication", "water-bottle", "snacks-solid-food", "protein-powder"],
+    "relatedSlugs": ["stroller", "ice-packs", "prescription-medication", "water-bottle"],
     "faqs": [
       {
         "question": "Do I have to be traveling with my baby to bring breast milk through TSA?",
@@ -602,7 +602,7 @@
     "checkedStatus": "LIMITED",
     "shortAnswer": "One disposable lighter (like a Bic) or one book of safety matches is allowed in carry-on bags; torch lighters and strike-anywhere matches are banned.",
     "tsaRuleDetail": "TSA and FAA rules allow passengers to carry one standard disposable butane lighter (such as a Bic) or one Zippo-style lighter in their carry-on bag or pocket. One book of standard safety matches is also permitted in carry-on luggage only. Fuel-filled lighters are prohibited in checked luggage unless completely empty of fuel or enclosed in a DOT-approved travel case. Torch lighters, blue-flame jet lighters, arc/plasma lighters, lighter fluid, and strike-anywhere matches are strictly banned in both carry-on and checked bags.",
-    "packingTip": "Keep your single disposable lighter in your carry-on backpack pocket and never pack torch or jet-flame lighters—even expensive ones will be confiscated immediately at airport security.",
+    "packingTip": "Keep your single disposable lighter in your carry-on backpack pocket and never pack torch, jet-flame, or electric arc lighters—even expensive collectible ones will be confiscated immediately at airport security checkpoints.",
     "amazonKeyword": "dot approved lighter travel case",
     "relatedSlugs": ["vape-e-cigarette", "pocket-knife", "power-bank", "scissors"],
     "faqs": [
@@ -628,10 +628,10 @@
     "carryOnStatus": "YES",
     "checkedStatus": "YES",
     "shortAnswer": "Yes, both compact folding umbrellas and full-size stick umbrellas are allowed in carry-on and checked luggage.",
-    "tsaRuleDetail": "TSA allows standard umbrellas in both carry-on and checked bags. Compact foldable travel umbrellas easily fit inside backpacks or roller suitcases without issue. Larger stick umbrellas are also permitted by TSA through security as long as they do not have sharp, weapon-like pointed tips—however, your airline may count a large umbrella toward your carry-on item limit or require it to fit inside the overhead bin.",
-    "packingTip": "Choose a compact, windproof travel umbrella with a waterproof zip sleeve so you can slide it straight into your backpack's side pocket without soaking your clothes or electronics.",
+    "tsaRuleDetail": "TSA allows standard umbrellas in both carry-on and checked bags on domestic and international flights. Compact foldable travel umbrellas easily fit inside backpacks, purses, or roller suitcases without taking up much space. Larger stick umbrellas and golf umbrellas are also permitted through TSA security checkpoints as long as they do not have sharp, weapon-like pointed metal tips. However, keep in mind that individual airlines may count a long stick umbrella toward your carry-on item limit or require it to fit neatly inside the overhead bin.",
+    "packingTip": "Choose a compact, windproof travel umbrella that comes with a waterproof zippered sleeve so you can slide it straight into your backpack's outer side pocket after a rainstorm without soaking your clothes, chargers, or laptop.",
     "amazonKeyword": "compact windproof travel umbrella with case",
-    "relatedSlugs": ["water-bottle", "scissors", "pocket-knife", "laptop"],
+    "relatedSlugs": ["stroller", "water-bottle", "scissors", "pocket-knife"],
     "faqs": [
       {
         "question": "Can I bring a full-size umbrella in my carry-on?",
