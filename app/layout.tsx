@@ -65,7 +65,9 @@ export default function RootLayout({
               </Link>
             </div>
           </div>
+          <p className="text-xs text-slate-500 text-center sm:text-left mt-3">As an Amazon Associate I earn from qualifying purchases.</p>   
         </footer>
+    
       </body>
     </html>
   );
