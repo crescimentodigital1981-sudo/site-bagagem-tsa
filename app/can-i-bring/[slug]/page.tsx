@@ -7,8 +7,7 @@ import {
   getRelatedItems,
   type TsaStatus,
 } from "@/lib/items";
-import { SITE_NAME, SITE_URL } from "@/lib/config";
-
+import { AMAZON_TAG, SITE_NAME, SITE_URL } from "@/lib/config";
 export const dynamicParams = false;
 
 export function generateStaticParams() {
@@ -91,8 +90,10 @@ export default async function ItemPage({
 
   const relatedItems = getRelatedItems(item.relatedSlugs);
   const amazonUrl = `https://www.amazon.com/s?k=${encodeURIComponent(
-    item.amazonKeyword
-  )}`;
+  item.amazonKeyword
+)}&tag=${AMAZON_TAG}`;
+    
+  
 
   const breadcrumbSchema = {
     "@context": "https://schema.org",
