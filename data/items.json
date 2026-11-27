@@ -2009,7 +2009,7 @@
     "tsaRuleDetail": "TSA prohibits baseball bats, softball bats, and similar clubs in carry-on luggage because they can be used as blunt weapons in the airplane cabin. You must pack bats inside your checked luggage or a dedicated sports gear bag checked at the airline counter. Remember that long checked bags can sometimes trigger oversized baggage fees depending on your airline and ticket type.",
     "packingTip": "Pack your bat inside a long padded bat bag or check it securely in checked luggage, and check your airline's checked-bag length rules beforehand to avoid surprise oversize charges.",
     "amazonKeyword": "padded baseball bat bag travel checked luggage",
-    "relatedSlugs": ["padlock-luggage", "binoculars", "yoga-mat", "baseball-bat"],
+    "relatedSlugs": ["padlock-luggage", "binoculars", "yoga-mat","golf-clubs"],
     "faqs": [
       {
         "question": "Can I bring a mini baseball bat in my carry-on?",
@@ -2024,6 +2024,1357 @@
         "answer": "Standard checked-bag fees apply, and long bags that exceed airline length limits may incur oversize fees."
       }
     ]
+  },
+    {
+    "slug": "drone",
+    "name": "Drone & Quadcopter",
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "carryOnStatus": "LIMITED",
+    "checkedStatus": "LIMITED",
+    "shortAnswer": "Yes, drones are allowed in carry-on bags with lithium batteries under 100 Wh, while spare lithium batteries must stay in the cabin.",
+    "tsaRuleDetail": "TSA allows consumer drones and quadcopters in both carry-on and checked luggage, subject to FAA lithium battery safety rules. Lithium-ion flight batteries rated at 100 watt-hours (Wh) or less are permitted in carry-on bags without airline approval, while batteries between 101 Wh and 160 Wh generally require airline approval and are limited to two spare batteries. Spare lithium batteries are strictly prohibited in checked baggage and must remain in your carry-on with terminals protected. Drones with batteries exceeding 160 Wh are banned on passenger flights. Always check airline-specific drone rules before flying.",
+    "packingTip": "Pack your drone body in a padded hard case inside your carry-on backpack and carry all smart flight batteries in a fire-resistant LiPo safe bag or individual terminal covers in your cabin bag so security officers can inspect them effortlessly.",
+    "amazonKeyword": "hard shell drone carrying case lipo battery bag",
+    "relatedSlugs": ["power-bank", "camera-lens", "smartwatch", "hdmi-cables"],
+    "faqs": [
+      {
+        "question": "Can I put drone batteries in my checked luggage?",
+        "answer": "No. Spare lithium-ion drone batteries must stay in your carry-on bag and cannot be packed in checked luggage."
+      },
+      {
+        "question": "Do I need to remove the drone from my bag at TSA?",
+        "answer": "Usually no, though officers may ask to open the case for a closer look at electronics and battery labels."
+      },
+      {
+        "question": "Are DJI drones allowed on airplanes?",
+        "answer": "Yes, standard consumer drones are allowed when their lithium batteries comply with the 100 Wh carry-on guideline or airline approval rules."
+      }
+    ]
+  },
+  {
+    "slug": "camera-lens",
+    "name": "Camera Lenses & DSLR Gear",
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, camera lenses, mirrorless bodies, and DSLR gear are allowed in both carry-on and checked bags, though carry-on is much safer.",
+    "tsaRuleDetail": "TSA permits cameras, interchangeable lenses, filters, memory cards, and camera straps in both carry-on and checked luggage on domestic and international flights. Any detachable lithium-ion camera batteries follow FAA safety rules: batteries installed in cameras may go in carry-on or checked bags (with accidental activation prevented), while spare lithium batteries must be carried in your cabin luggage only. Because checked suitcases undergo rough handling and temperature swings, photographers almost always keep delicate glass lenses in their carry-on bag.",
+    "packingTip": "Use padded dividers inside a dedicated camera backpack so prime and zoom lenses cannot bump together, and keep spare camera batteries in plastic cases inside your carry-on rather than leaving them loose in pockets.",
+    "amazonKeyword": "padded camera backpack with dividers travel",
+    "relatedSlugs": ["drone", "smartwatch", "external-hard-drive", "hdmi-cables"],
+    "faqs": [
+      {
+        "question": "Can I bring multiple camera lenses in my carry-on?",
+        "answer": "Yes. TSA does not limit how many camera lenses you carry on, as long as your bag fits airline cabin size limits."
+      },
+      {
+        "question": "Can spare camera batteries go in checked luggage?",
+        "answer": "No. Spare lithium-ion camera batteries must be packed in your carry-on bag with terminals protected."
+      },
+      {
+        "question": "Do camera lenses count as liquids at TSA?",
+        "answer": "No, lenses and optical filters are solid gear, though lens cleaning liquids over 3.4 oz (100 ml) are not allowed in carry-on."
+      }
+    ]
+  },
+  {
+    "slug": "hdmi-cables",
+    "name": "HDMI, USB Cables & Adapters",
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, HDMI cables, USB-C cords, charging bricks, and dongles are allowed in both carry-on and checked luggage with no restrictions.",
+    "tsaRuleDetail": "TSA allows all standard electronic cables, charging cords, USB hubs, HDMI leads, DisplayPort adapters, and wall power bricks in both carry-on and checked bags. Because these accessories do not contain high-capacity lithium batteries or hazardous liquids, there are no quantity or size limits imposed by TSA beyond your bag's weight and dimension rules. Occasionally, a dense bundle of tangled wires and adapters can look cluttered on an X-ray scan, prompting a quick visual check by a security officer.",
+    "packingTip": "Coil your HDMI cords, USB-C cables, and wall chargers neatly inside a zippered tech organizer pouch so they do not tangle or trigger unnecessary extra bag checks at the checkpoint.",
+    "amazonKeyword": "electronic cable organizer pouch travel tech bag",
+    "relatedSlugs": ["travel-adapter", "external-hard-drive", "power-bank", "earbuds-headphones"],
+    "faqs": [
+      {
+        "question": "Do I need to take charging cables out of my bag at TSA?",
+        "answer": "No, cables and adapters can stay inside your bag during X-ray screening unless a TSA officer asks to inspect a dense bundle."
+      },
+      {
+        "question": "Can I bring long HDMI cables in my carry-on?",
+        "answer": "Yes, HDMI cables of any length are permitted in both carry-on and checked luggage."
+      },
+      {
+        "question": "Are USB wall chargers allowed on flights?",
+        "answer": "Yes, standard USB and USB-C power adapters are allowed in both carry-on and checked bags."
+      }
+    ]
+  },
+  {
+    "slug": "smartwatch",
+    "name": "Smartwatch & Fitness Tracker",
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, smartwatches and fitness trackers are allowed on your wrist, in carry-on bags, or in checked luggage.",
+    "tsaRuleDetail": "TSA permits smartwatches, sports watches, and fitness trackers through airport security checkpoints whether worn on your wrist or packed inside your carry-on or checked bag. The small lithium-ion batteries built into smartwatches have very low watt-hour ratings well below FAA limits. You can leave a smartwatch on during walk-through metal detectors or place it in a bin with your personal items if preferred. If packing a smartwatch in checked luggage, make sure it is turned off and protected from accidental activation.",
+    "packingTip": "Keep your smartwatch on your wrist or inside your carry-on bag alongside its magnetic charging puck so you can track sleep, steps, and flight alerts right from the moment you land.",
+    "amazonKeyword": "smartwatch magnetic charger travel case",
+    "relatedSlugs": ["earbuds-headphones", "hdmi-cables", "external-hard-drive", "drone"],
+    "faqs": [
+      {
+        "question": "Do I have to take off my smartwatch at TSA?",
+        "answer": "Usually no, smartwatches rarely trigger walk-through metal detectors, though officers may ask you to remove bulky items if needed."
+      },
+      {
+        "question": "Can I pack a smartwatch in my checked suitcase?",
+        "answer": "Yes, it is allowed in checked bags, though keeping valuable electronics in your carry-on is generally safer."
+      },
+      {
+        "question": "Are fitness bands like Fitbit or Garmin allowed on planes?",
+        "answer": "Yes, all fitness trackers and sports watches are allowed in both carry-on and checked luggage."
+      }
+    ]
+  },
+  {
+    "slug": "earbuds-headphones",
+    "name": "Wireless Earbuds & Headphones",
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, wireless earbuds, charging cases, and over-ear headphones are allowed in both carry-on and checked bags, with carry-on preferred.",
+    "tsaRuleDetail": "TSA allows wireless earbuds, charging cases, noise-canceling headphones, and wired earphones in both carry-on and checked luggage. Their small lithium-ion batteries easily meet FAA safety thresholds for passenger aircraft. However, FAA guidance recommends carrying lithium-battery devices in the cabin when possible, and over-ear headphones can easily be crushed inside a heavy checked suitcase. You do not need to remove earbuds or headphones from your bag for standard X-ray screening.",
+    "packingTip": "Place your wireless earbuds inside their charging case and tuck over-ear headphones into a molded hard case inside your personal item so you have instant noise cancellation for takeoff and cabin noise.",
+    "amazonKeyword": "hard travel case for over ear headphones earbuds",
+    "relatedSlugs": ["smartwatch", "hdmi-cables", "external-hard-drive", "travel-adapter"],
+    "faqs": [
+      {
+        "question": "Do I need to take headphones out of my bag at TSA?",
+        "answer": "No, headphones and earbuds can stay inside your bag or case during X-ray screening."
+      },
+      {
+        "question": "Are AirPods and charging cases allowed on airplanes?",
+        "answer": "Yes, wireless earbuds and their charging cases are permitted in both carry-on and checked luggage."
+      },
+      {
+        "question": "Can I wear headphones while walking through TSA security?",
+        "answer": "Officers generally ask you to remove headphones or earbuds so you can hear instructions clearly at the checkpoint."
+      }
+    ]
+  },
+  {
+    "slug": "travel-adapter",
+    "name": "Universal Travel Power Adapter",
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, universal plug adapters and international travel adapters are allowed in both carry-on and checked luggage with no restrictions.",
+    "tsaRuleDetail": "TSA allows international plug adapters, multi-country travel adapters, and voltage converters in both carry-on and checked bags on domestic and international flights. Because passive plug adapters simply change prong shapes and do not contain batteries or fuel, TSA imposes no limits on how many you bring. Keep in mind that a plug adapter only changes outlet shape—it does not convert electrical voltage unless the unit is specifically labeled as a step-down voltage converter for high-wattage appliances.",
+    "packingTip": "Check the label on your electronics (like phone and laptop chargers) for '100-240V' dual-voltage support, and pack a compact universal adapter in your carry-on so you can charge devices right at the airport gate or hotel.",
+    "amazonKeyword": "universal travel power adapter usb c international",
+    "relatedSlugs": ["hdmi-cables", "earbuds-headphones", "smartwatch", "external-hard-drive"],
+    "faqs": [
+      {
+        "question": "Are universal power adapters allowed in carry-on bags?",
+        "answer": "Yes, universal travel adapters are completely allowed in both carry-on and checked luggage."
+      },
+      {
+        "question": "Does a travel adapter convert 220V to 110V?",
+        "answer": "Most simple plug adapters only change plug shape; check if your device supports dual voltage or if you need a dedicated voltage converter."
+      },
+      {
+        "question": "Do I need to remove a power adapter from my bag at TSA?",
+        "answer": "No, adapters can stay inside your bag during X-ray screening."
+      }
+    ]
+  },
+  {
+    "slug": "external-hard-drive",
+    "name": "External Hard Drive & Portable SSD",
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, external hard drives, portable SSDs, and flash drives are allowed in both carry-on and checked bags, with carry-on strongly recommended.",
+    "tsaRuleDetail": "TSA allows external hard disk drives (HDDs), solid-state drives (SSDs), and USB flash drives in both carry-on and checked luggage. Mechanical hard drives contain spinning platters and delicate read/write heads that can be damaged by drops or rough baggage handling, making portable SSDs or carry-on storage much safer for your data. Standard X-ray machines used for carry-on bags do not erase or harm data on modern hard drives or SSDs.",
+    "packingTip": "Keep your portable SSD or external hard drive inside a padded shock-resistant pouch in your carry-on bag so important work files, photos, and backups stay protected throughout transit.",
+    "amazonKeyword": "shockproof carrying case portable ssd hard drive",
+    "relatedSlugs": ["hdmi-cables", "camera-lens", "smartwatch", "earbuds-headphones"],
+    "faqs": [
+      {
+        "question": "Will airport X-ray machines erase my external hard drive?",
+        "answer": "No. Standard airport X-ray scanners do not erase or corrupt data on external hard drives, SSDs, or memory cards."
+      },
+      {
+        "question": "Can I bring multiple external drives in my carry-on?",
+        "answer": "Yes, TSA places no limit on the number of external hard drives or SSDs you carry in your luggage."
+      },
+      {
+        "question": "Should I put an external hard drive in checked luggage?",
+        "answer": "It is allowed, but carrying it in your cabin bag reduces the risk of physical shock, loss, or theft."
+      }
+    ]
+  },
+  {
+    "slug": "mouthwash",
+    "name": "Mouthwash",
+    "category": "Toiletries",
+    "categorySlug": "toiletries",
+    "carryOnStatus": "LIMITED",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, mouthwash is allowed in carry-on bags in bottles of 3.4 oz (100 ml) or less, and full-size bottles are allowed in checked bags.",
+    "tsaRuleDetail": "TSA classifies liquid mouthwash and breath rinse under the 3-1-1 liquids rule for carry-on luggage. Any bottle of mouthwash in your carry-on bag must hold 3.4 ounces (100 milliliters) or less—measured by the bottle's printed capacity—and fit inside your single quart-sized clear plastic bag. Larger bottles of mouthwash must be placed in your checked luggage. If you prefer traveling light without liquid limits, solid mouthwash tablets or breath strips have no liquid restrictions in carry-on bags.",
+    "packingTip": "Pick up a 1.7 oz or 3 oz travel bottle of mouthwash for short trips, or use solid mouthwash tablets that dissolve in a small sip of water so you save space in your quart-sized liquids bag.",
+    "amazonKeyword": "travel size mouthwash bottle tsa approved",
+    "relatedSlugs": ["body-wash", "nail-polish", "cotton-swabs", "floss-picks"],
+    "faqs": [
+      {
+        "question": "Can I bring a travel-size mouthwash bottle in my carry-on?",
+        "answer": "Yes, as long as the bottle is 3.4 oz (100 ml) or smaller and fits inside your quart-sized liquids bag."
+      },
+      {
+        "question": "Can I pack a large 1-liter bottle of mouthwash in checked luggage?",
+        "answer": "Yes, full-size mouthwash bottles are allowed in checked bags, though they should be sealed tightly against leaks."
+      },
+      {
+        "question": "Do mouthwash tablets count as liquids at TSA?",
+        "answer": "No, dry mouthwash tablets are solid and do not count toward your 3-1-1 liquids limit."
+      }
+    ]
+  },
+  {
+    "slug": "nail-polish",
+    "name": "Nail Polish & Nail Polish Remover",
+    "category": "Toiletries",
+    "categorySlug": "toiletries",
+    "carryOnStatus": "LIMITED",
+    "checkedStatus": "LIMITED",
+    "shortAnswer": "Nail polish bottles of 3.4 oz (100 ml) or less are allowed in carry-on bags, while flammable acetone removers face strict limits.",
+    "tsaRuleDetail": "TSA allows standard nail polish bottles in carry-on luggage as long as each bottle is 3.4 oz (100 ml) or less and fits inside your quart-sized clear liquids bag—most retail nail polish bottles are around 0.5 oz (15 ml) and easily qualify. However, nail polish removers—especially acetone-based removers—are regulated as flammable liquids under FAA hazardous materials rules, with strict limits on container size and total volume in carry-on and checked bags. Non-flammable or pre-moistened acetone-free remover pads are a much simpler alternative.",
+    "packingTip": "Pack your small nail polish bottles inside a padded pouch inside your quart-sized bag and swap liquid acetone remover for individually wrapped acetone-free nail polish remover pads.",
+    "amazonKeyword": "acetone free nail polish remover pads travel",
+    "relatedSlugs": ["mouthwash", "cotton-swabs", "body-wash", "floss-picks"],
+    "faqs": [
+      {
+        "question": "Can I bring regular nail polish in my carry-on bag?",
+        "answer": "Yes, standard nail polish bottles are well under 3.4 oz (100 ml) and are allowed inside your quart-sized liquids bag."
+      },
+      {
+        "question": "Is acetone nail polish remover allowed on an airplane?",
+        "answer": "Flammable liquid removers like acetone are restricted by FAA hazardous materials rules; check current FAA limits or use acetone-free pads."
+      },
+      {
+        "question": "Can I bring gel nail polish and a mini LED lamp in carry-on?",
+        "answer": "Yes, small gel polish bottles under 3.4 oz and compact USB LED nail lamps are allowed in carry-on luggage."
+      }
+    ]
+  },
+  {
+    "slug": "cotton-swabs",
+    "name": "Cotton Swabs & Cotton Rounds",
+    "category": "Toiletries",
+    "categorySlug": "toiletries",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, cotton swabs, Q-tips, and cotton pads are allowed in both carry-on and checked luggage with no restrictions.",
+    "tsaRuleDetail": "TSA permits dry cotton swabs, cotton balls, and facial cotton rounds in both carry-on and checked bags on domestic and international flights. Because dry cotton items are solid and not liquids, gels, or aerosols, they do not count toward your quart-sized 3-1-1 liquids bag and have no quantity limits. Only pre-wetted swabs or pads saturated with liquid would be evaluated as liquids if applicable.",
+    "packingTip": "Store a small stash of cotton swabs and cotton pads inside a small zip-top bag or rigid travel case so they stay clean, dry, and lint-free inside your toiletry pouch.",
+    "amazonKeyword": "travel cotton swab holder case small",
+    "relatedSlugs": ["floss-picks", "mouthwash", "nail-polish", "body-wash"],
+    "faqs": [
+      {
+        "question": "Do cotton swabs have to go in my TSA liquids bag?",
+        "answer": "No, dry cotton swabs and cotton pads are not liquids and can be packed freely in your regular toiletry bag."
+      },
+      {
+        "question": "Can I bring cotton rounds in my carry-on bag?",
+        "answer": "Yes, dry cotton pads and balls are allowed in both carry-on and checked luggage."
+      },
+      {
+        "question": "Is there a limit on how many Q-tips I can pack?",
+        "answer": "No, TSA sets no quantity limit on personal cotton swabs."
+      }
+    ]
+  },
+  {
+    "slug": "floss-picks",
+    "name": "Dental Floss & Floss Picks",
+    "category": "Toiletries",
+    "categorySlug": "toiletries",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, dental floss spools, floss picks, and interdental brushes are allowed in both carry-on and checked luggage.",
+    "tsaRuleDetail": "TSA allows dental floss dispensers, disposable floss picks, and interdental brushes in both carry-on and checked bags on all flights. These items are exempt from liquid rules and do not pose security concerns at airport checkpoints. Even floss picks with a tiny pointed tip at the end of the handle are routinely permitted through TSA screening.",
+    "packingTip": "Keep a compact dental floss dispenser or a small pouch of floss picks in your personal item or jacket pocket so you can easily use them after meals on long travel days.",
+    "amazonKeyword": "travel dental floss picks case pack",
+    "relatedSlugs": ["cotton-swabs", "mouthwash", "body-wash", "nail-polish"],
+    "faqs": [
+      {
+        "question": "Are dental floss picks allowed in carry-on bags?",
+        "answer": "Yes, dental floss and floss picks are allowed in both carry-on and checked luggage."
+      },
+      {
+        "question": "Does dental floss count as a liquid at TSA?",
+        "answer": "No, waxed or unwaxed dental floss is exempt from the 3-1-1 liquids rule."
+      },
+      {
+        "question": "Can I bring interdental brushes through security?",
+        "answer": "Yes, small interdental brushes are permitted in carry-on and checked bags."
+      }
+    ]
+  },
+  {
+    "slug": "body-wash",
+    "name": "Body Wash & Bar Soap",
+    "category": "Toiletries",
+    "categorySlug": "toiletries",
+    "carryOnStatus": "LIMITED",
+    "checkedStatus": "YES",
+    "shortAnswer": "Liquid body wash must be 3.4 oz (100 ml) or less in carry-on bags, while bar soap has no liquid limit and full-size bottles can be checked.",
+    "tsaRuleDetail": "TSA separates body cleansers by format for carry-on luggage. Liquid body wash, shower gel, and bath oil fall under the 3-1-1 liquids rule—carry-on bottles must be 3.4 oz (100 ml) or smaller and fit inside your single quart-sized clear plastic bag, while larger bottles belong in checked luggage. Solid bar soap, however, is not considered a liquid and can be packed in your carry-on bag in any size without taking up space in your liquids bag.",
+    "packingTip": "Pack a travel bar of soap inside a ventilated or leak-resistant soap dish to save room in your quart-sized bag, or decant body wash into a 3 oz travel bottle with plastic wrap under the cap.",
+    "amazonKeyword": "travel soap case leak proof bar soap",
+    "relatedSlugs": ["mouthwash", "nail-polish", "cotton-swabs", "floss-picks"],
+    "faqs": [
+      {
+        "question": "Does bar soap count as a liquid for TSA?",
+        "answer": "No. Solid bar soap is exempt from the 3-1-1 liquids rule and can be packed in carry-on bags."
+      },
+      {
+        "question": "Can I bring a 3.4 oz bottle of body wash in my carry-on?",
+        "answer": "Yes, containers of 3.4 oz (100 ml) or less are allowed inside your quart-sized clear liquids bag."
+      },
+      {
+        "question": "Can I bring full-size shower gel in checked luggage?",
+        "answer": "Yes, full-size body wash bottles are permitted in checked baggage."
+      }
+    ]
+  },
+  {
+    "slug": "tea-bags",
+    "name": "Tea Bags & Loose Leaf Tea",
+    "category": "Food & Drink",
+    "categorySlug": "food-and-drink",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, tea bags, loose leaf tea, and matcha powder are allowed in both carry-on and checked bags, though brewed hot tea must be finished first.",
+    "tsaRuleDetail": "TSA allows wrapped tea bags, loose leaf tea, herbal infusions, and dry tea powders in both carry-on and checked luggage. Dry tea is not a liquid, though powdered teas (like matcha) in containers over 12 oz (350 ml) in carry-on bags may require separate bin screening. If you buy a cup of hot tea before security, any liquid tea over 3.4 oz (100 ml) cannot pass through the checkpoint—you can ask for hot water after clearing security instead.",
+    "packingTip": "Pack tea bags or loose leaf tea in a sealed zip-top bag or small tin so aromas stay fresh and dry leaves do not spill into your carry-on.",
+    "amazonKeyword": "airtight tea canister travel tin loose leaf",
+    "relatedSlugs": ["canned-food", "hot-sauce", "cereal-oatmeal", "spices-seasonings"],
+    "faqs": [
+      {
+        "question": "Can I bring tea bags in my carry-on luggage?",
+        "answer": "Yes, tea bags and loose leaf tea are allowed in both carry-on and checked bags."
+      },
+      {
+        "question": "Can I bring a cup of hot tea through TSA security?",
+        "answer": "No, liquid tea over 3.4 oz (100 ml) is not allowed through security checkpoints; finish it or pour it out first."
+      },
+      {
+        "question": "Does matcha powder have a carry-on size limit?",
+        "answer": "Containers of 12 oz (350 ml) or less are simpler to screen; larger powder containers require a separate bin and extra inspection."
+      }
+    ]
+  },
+  {
+    "slug": "canned-food",
+    "name": "Canned Food & Soup Cans",
+    "category": "Food & Drink",
+    "categorySlug": "food-and-drink",
+    "carryOnStatus": "LIMITED",
+    "checkedStatus": "YES",
+    "shortAnswer": "Canned foods containing liquid, broth, or sauce over 3.4 oz (100 ml) are not allowed in carry-on bags and must go in checked luggage.",
+    "tsaRuleDetail": "TSA applies the 3-1-1 liquids rule to canned foods based on their contents. Canned soup, chili, stew, fruit in syrup, and tuna or beans packed in liquid or sauce cannot exceed 3.4 oz (100 ml) in carry-on luggage—most standard grocery cans are larger and must be packed in checked bags. Dry canned goods without liquid may face closer inspection if dense, and checked cans can occasionally be affected by cabin pressure changes if poorly sealed.",
+    "packingTip": "If you pack canned food in checked luggage, wrap cans in a towel or place them inside a sturdy pouch with clothing around them to cushion against dents and leaks.",
+    "amazonKeyword": "padded travel food bag insulated lunch box",
+    "relatedSlugs": ["hot-sauce", "tea-bags", "cereal-oatmeal", "spices-seasonings"],
+    "faqs": [
+      {
+        "question": "Can I bring a regular can of soup in my carry-on bag?",
+        "answer": "No. Standard soup cans exceed the 3.4 oz (100 ml) liquid limit and must be packed in checked luggage."
+      },
+      {
+        "question": "Are canned sardines or tuna allowed in checked luggage?",
+        "answer": "Yes, canned fish and meat are permitted in checked bags on domestic flights, subject to customs rules on international trips."
+      },
+      {
+        "question": "Do canned foods trigger extra X-ray checks?",
+        "answer": "Metal cans can look opaque on X-ray monitors, so officers may inspect them more closely."
+      }
+    ]
+  },
+  {
+    "slug": "hot-sauce",
+    "name": "Hot Sauce & Liquid Condiments",
+    "category": "Food & Drink",
+    "categorySlug": "food-and-drink",
+    "carryOnStatus": "LIMITED",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, hot sauce, soy sauce, and ketchup packets or bottles of 3.4 oz (100 ml) or less are allowed in carry-on bags; larger bottles go in checked bags.",
+    "tsaRuleDetail": "TSA classifies hot sauce, salsa, barbecue sauce, soy sauce, salad dressing, and mayo as liquids and gels under the 3-1-1 rule. In carry-on luggage, each bottle or pouch must be 3.4 oz (100 ml) or less and fit inside your single quart-sized clear plastic bag. Full-size hot sauce bottles are permitted in checked baggage with no size limit, though glass bottles should be well-cushioned.",
+    "packingTip": "Grab mini travel bottles or single-serve sauce packets if you want hot sauce for your trip without checking a bag, and seal checked glass bottles inside a zip-top bag wrapped in soft clothes.",
+    "amazonKeyword": "mini hot sauce travel bottles set",
+    "relatedSlugs": ["canned-food", "tea-bags", "cereal-oatmeal", "spices-seasonings"],
+    "faqs": [
+      {
+        "question": "Can I bring a small 2 oz bottle of hot sauce in my carry-on?",
+        "answer": "Yes, as long as the container is 3.4 oz (100 ml) or smaller and fits inside your quart-sized liquids bag."
+      },
+      {
+        "question": "Are condiment packets from restaurants allowed through TSA?",
+        "answer": "Small single-serve packets are usually fine in carry-on bags, though larger quantities of liquid sauces must follow the 3.4 oz rule."
+      },
+      {
+        "question": "Can I pack full-size hot sauce bottles in checked luggage?",
+        "answer": "Yes, full-size sauce bottles are allowed in checked bags."
+      }
+    ]
+  },
+  {
+    "slug": "cereal-oatmeal",
+    "name": "Cereal & Instant Oatmeal",
+    "category": "Food & Drink",
+    "categorySlug": "food-and-drink",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, dry cereal, granola, and instant oatmeal packets are allowed in both carry-on and checked bags, while liquid milk follows the 3.4 oz rule.",
+    "tsaRuleDetail": "TSA allows dry breakfast cereal, rolled oats, granola, and instant oatmeal packets in both carry-on and checked luggage. Because these are dry solid foods, they are not restricted by the 3-1-1 liquids rule—though you cannot bring a carton of milk over 3.4 oz (100 ml) through security to pour over your cereal. Large boxes of cereal take up significant carry-on space, so individual cups or pouches are easier to pack.",
+    "packingTip": "Pack instant oatmeal packets or single-serve cereal cups in a zip-top bag inside your carry-on so you have an easy breakfast at your hotel without carrying bulky boxes.",
+    "amazonKeyword": "single serve oatmeal packets variety box",
+    "relatedSlugs": ["tea-bags", "canned-food", "hot-sauce", "spices-seasonings"],
+    "faqs": [
+      {
+        "question": "Can I bring oatmeal packets in my carry-on bag?",
+        "answer": "Yes, dry instant oatmeal packets are allowed in both carry-on and checked luggage."
+      },
+      {
+        "question": "Can I bring a small carton of milk for cereal through TSA?",
+        "answer": "Milk containers over 3.4 oz (100 ml) are not allowed through security unless medically necessary (such as baby milk) and declared."
+      },
+      {
+        "question": "Do I need to remove dry cereal from my bag at TSA?",
+        "answer": "Usually no, though some security lanes ask to see food items separately for clearer X-ray imaging."
+      }
+    ]
+  },
+  {
+    "slug": "spices-seasonings",
+    "name": "Spices & Dry Seasonings",
+    "category": "Food & Drink",
+    "categorySlug": "food-and-drink",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, dry spices, herbs, and seasoning blends are allowed in both carry-on and checked bags, with powder containers over 12 oz screened separately.",
+    "tsaRuleDetail": "TSA allows dry spices, dried herbs, salt, pepper, and seasoning mixes in both carry-on and checked luggage. Small spice jars and seasoning packets pass easily through security checkpoints. Under TSA's powder rule, any powder-like spice or seasoning in a carry-on container larger than 12 oz (350 ml) must be placed in a separate bin for additional screening. Liquid seasonings, oils, or extracts over 3.4 oz (100 ml) must go in checked bags.",
+    "packingTip": "Keep spices in clearly labeled containers or sealed pouches so TSA officers can quickly identify what they are if a container requires inspection.",
+    "amazonKeyword": "travel spice container set leak proof",
+    "relatedSlugs": ["tea-bags", "canned-food", "hot-sauce", "cereal-oatmeal"],
+    "faqs": [
+      {
+        "question": "Can I bring spices in my carry-on luggage?",
+        "answer": "Yes, dry spices and seasonings are allowed in carry-on and checked bags; powders over 12 oz (350 ml) need separate screening."
+      },
+      {
+        "question": "Can I bring vanilla extract in my carry-on bag?",
+        "answer": "Vanilla extract is a liquid, so the bottle must be 3.4 oz (100 ml) or less to go in your carry-on liquids bag."
+      },
+      {
+        "question": "Are spices allowed through international customs?",
+        "answer": "Many dried spices are allowed, but fresh herbs, seeds, or certain agricultural products can be restricted by customs."
+      }
+    ]
+  },
+  {
+    "slug": "first-aid-kit",
+    "name": "First Aid Kit",
+    "category": "Health & Medical",
+    "categorySlug": "health-and-medical",
+    "carryOnStatus": "LIMITED",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, first aid kits are allowed in carry-on and checked bags, provided scissors have blades under 4 inches and liquids follow TSA rules.",
+    "tsaRuleDetail": "TSA allows travel first aid kits in both carry-on and checked luggage, but officers inspect individual items inside the kit against standard security rules. Bandages, gauze, antiseptic wipes, and medical tape are completely permitted in carry-on bags. However, scissors inside the kit must have blades shorter than 4 inches (10 cm) from the pivot point, sharp blades or tweezers with prohibited points are restricted, and liquid antiseptics or ointments over 3.4 oz (100 ml) are only allowed if medically necessary and declared.",
+    "packingTip": "Check the contents of your pre-made first aid kit before flying to remove large scissors, sharp blades, or oversized liquid bottles that could slow down security screening.",
+    "amazonKeyword": "compact travel first aid kit pouch",
+    "relatedSlugs": ["thermometer", "bandages-gauze", "motion-sickness-pills", "prescription-medication"],
+    "faqs": [
+      {
+        "question": "Can I bring a first aid kit in my carry-on bag?",
+        "answer": "Yes, as long as any scissors have blades under 4 inches and liquids follow TSA rules or are declared as medical."
+      },
+      {
+        "question": "Are alcohol prep pads allowed in carry-on bags?",
+        "answer": "Yes, individually sealed alcohol prep pads and antiseptic wipes are permitted in carry-on and checked bags."
+      },
+      {
+        "question": "Can I bring hydrogen peroxide in my carry-on?",
+        "answer": "Liquid hydrogen peroxide must be 3.4 oz (100 ml) or less in carry-on bags unless medically necessary and declared."
+      }
+    ]
+  },
+  {
+    "slug": "thermometer",
+    "name": "Digital & Medical Thermometer",
+    "category": "Health & Medical",
+    "categorySlug": "health-and-medical",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, digital, infrared, and non-mercury thermometers are allowed in both carry-on and checked bags, while mercury thermometers are banned.",
+    "tsaRuleDetail": "TSA permits digital oral/ear thermometers, forehead infrared thermometers, and glass alcohol thermometers in both carry-on and checked luggage. However, traditional mercury thermometers are strictly prohibited in both carry-on and checked bags under FAA hazardous materials rules because mercury is toxic and poses a severe hazard if a glass tube breaks on an aircraft. Always check that your thermometer is battery-powered or alcohol-filled before packing.",
+    "packingTip": "Keep your digital or infrared thermometer inside its protective plastic sleeve or hard case in your carry-on bag so the sensor stays clean and undamaged.",
+    "amazonKeyword": "digital forehead infrared thermometer travel case",
+    "relatedSlugs": ["first-aid-kit", "bandages-gauze", "motion-sickness-pills", "inhaler"],
+    "faqs": [
+      {
+        "question": "Are digital thermometers allowed on airplanes?",
+        "answer": "Yes, digital and infrared thermometers are allowed in both carry-on and checked luggage."
+      },
+      {
+        "question": "Can I bring a mercury thermometer in checked luggage?",
+        "answer": "No. Mercury thermometers are banned in both carry-on and checked bags due to hazardous materials safety rules."
+      },
+      {
+        "question": "Do I need to declare a thermometer at TSA?",
+        "answer": "No special declaration is required for standard digital or infrared thermometers."
+      }
+    ]
+  },
+  {
+    "slug": "bandages-gauze",
+    "name": "Bandages, Gauze & Medical Tape",
+    "category": "Health & Medical",
+    "categorySlug": "health-and-medical",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, adhesive bandages, sterile gauze, blister pads, and medical tape are allowed in both carry-on and checked luggage with no limits.",
+    "tsaRuleDetail": "TSA allows adhesive bandages (like Band-Aids), sterile gauze pads, rolled gauze, hydrocolloid blister bandages, and medical or athletic tape in both carry-on and checked bags on all flights. These supplies are dry solids and are completely exempt from the 3-1-1 liquids limit. You can pack as many bandages or blister pads as you need for your trip without special approval.",
+    "packingTip": "Slip a few adhesive bandages and blister cushions into a small pocket of your daypack or personal item so you have quick relief for sore feet while walking or sightseeing.",
+    "amazonKeyword": "hydrocolloid blister bandages travel pack",
+    "relatedSlugs": ["first-aid-kit", "thermometer", "motion-sickness-pills", "vitamins"],
+    "faqs": [
+      {
+        "question": "Are Band-Aids and gauze allowed in carry-on bags?",
+        "answer": "Yes, bandages, gauze, and medical tape are allowed in both carry-on and checked luggage."
+      },
+      {
+        "question": "Do blister bandages count as liquids at TSA?",
+        "answer": "No, adhesive and hydrocolloid bandages are solid items and do not count toward your liquids limit."
+      },
+      {
+        "question": "Is athletic tape allowed on a plane?",
+        "answer": "Yes, rolls of athletic and medical tape are permitted in both carry-on and checked bags."
+      }
+    ]
+  },
+  {
+    "slug": "motion-sickness-pills",
+    "name": "Motion Sickness Medication",
+    "category": "Health & Medical",
+    "categorySlug": "health-and-medical",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, motion sickness pills, chewables, and travel patches are allowed in carry-on and checked bags, while liquid forms follow medication rules.",
+    "tsaRuleDetail": "TSA allows over-the-counter and prescription motion sickness medications—including tablets, chewable pills, ginger capsules, and behind-the-ear patches—in both carry-on and checked luggage. Keep any medication you might need for turbulence or bumpy flights in your carry-on bag so it is easy to reach. Liquid motion sickness remedies are allowed in carry-on bags, and medically necessary liquid medications over 3.4 oz (100 ml) are permitted if declared to TSA officers for screening.",
+    "packingTip": "Keep a few motion sickness tablets or patches in your carry-on pocket before takeoff, and check with your doctor or pharmacist about drowsiness before driving after landing.",
+    "amazonKeyword": "motion sickness relief tablets travel pack",
+    "relatedSlugs": ["first-aid-kit", "thermometer", "bandages-gauze", "epipen"],
+    "faqs": [
+      {
+        "question": "Can I bring motion sickness pills in my carry-on bag?",
+        "answer": "Yes, motion sickness tablets, chewables, and patches are allowed in both carry-on and checked luggage."
+      },
+      {
+        "question": "Can I pack motion sickness medication in checked luggage?",
+        "answer": "Yes, though keeping it in your carry-on ensures access during the flight."
+      },
+      {
+        "question": "Are motion sickness wristbands allowed on planes?",
+        "answer": "Yes, acupressure motion sickness bands are allowed in both carry-on and checked bags."
+      }
+    ]
+  },
+  {
+    "slug": "padlock-luggage",
+    "name": "TSA Luggage Lock & Padlock",
+    "category": "Personal & Gear",
+    "categorySlug": "personal-and-gear",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, padlocks and luggage locks are allowed on carry-on and checked bags, though TSA-accepted locks are strongly recommended for checked luggage.",
+    "tsaRuleDetail": "TSA allows padlocks, cable locks, and built-in combination locks on both carry-on and checked luggage. However, if you lock a checked bag with a non-TSA lock and security officers need to inspect the bag physically, TSA can cut or break the lock to open the suitcase. Locks recognized by TSA allow officers to open and relock the bag using special master tools without damaging your lock or zipper.",
+    "packingTip": "Use a TSA-accepted combination or key lock on checked suitcases so your bag stays secure without risking a broken lock during physical baggage inspection.",
+    "amazonKeyword": "tsa approved luggage lock cable combination",
+    "relatedSlugs": ["binoculars", "yoga-mat", "baseball-bat", "umbrella"],
+    "faqs": [
+      {
+        "question": "Can I put a lock on my checked suitcase?",
+        "answer": "Yes, but TSA recommends using a TSA-accepted lock so officers can inspect the bag without cutting your lock."
+      },
+      {
+        "question": "Are luggage locks allowed on carry-on bags?",
+        "answer": "Yes, locks are permitted on carry-on bags as well."
+      },
+      {
+        "question": "What happens if TSA opens my locked checked bag?",
+        "answer": "If a TSA-accepted lock is used, it can be unlocked and relocked; if an inspection occurs, TSA leaves a notice inside your bag."
+      }
+    ]
+  },
+  {
+    "slug": "binoculars",
+    "name": "Binoculars",
+    "category": "Personal & Gear",
+    "categorySlug": "personal-and-gear",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, standard and compact binoculars are allowed in both carry-on and checked luggage, with carry-on preferred for glass optics.",
+    "tsaRuleDetail": "TSA allows birdwatching, sporting, and compact travel binoculars in both carry-on and checked bags on domestic and international flights. Because binoculars contain delicate glass lenses and prisms that can go out of alignment if dropped or crushed, most travelers pack them in their carry-on bag inside a padded case. You do not normally need to remove binoculars from your bag during X-ray screening.",
+    "packingTip": "Keep lens caps on both ends and store binoculars inside a padded case in your carry-on bag so rough baggage handling does not knock the lenses out of alignment.",
+    "amazonKeyword": "compact binoculars for travel with case",
+    "relatedSlugs": ["padlock-luggage", "yoga-mat", "baseball-bat", "camera-lens"],
+    "faqs": [
+      {
+        "question": "Can I bring binoculars in my carry-on bag?",
+        "answer": "Yes, binoculars are allowed in both carry-on and checked luggage."
+      },
+      {
+        "question": "Do I need to take binoculars out of my bag at TSA?",
+        "answer": "Usually no, binoculars can remain inside your bag during X-ray screening."
+      },
+      {
+        "question": "Should I check binoculars in my suitcase?",
+        "answer": "You can, but carrying them in your cabin bag helps protect the glass optics from impact."
+      }
+    ]
+  },
+  {
+    "slug": "yoga-mat",
+    "name": "Yoga Mat",
+    "category": "Personal & Gear",
+    "categorySlug": "personal-and-gear",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, yoga mats are allowed through TSA in carry-on and checked bags, though airlines enforce carry-on size and item limits.",
+    "tsaRuleDetail": "TSA allows rolled or folded yoga mats through airport security checkpoints in both carry-on and checked luggage. However, passing TSA does not guarantee cabin space—your airline determines whether a rolled yoga mat fits within carry-on dimensions or counts as your carry-on item. Travel yoga mats that fold flat or roll compactly are much easier to fit into a backpack, overhead bin, or checked suitcase.",
+    "packingTip": "Choose a thin, foldable travel yoga mat that packs flat inside your suitcase or backpack instead of a bulky rolled mat that may exceed airline carry-on limits.",
+    "amazonKeyword": "foldable travel yoga mat lightweight carry bag",
+    "relatedSlugs": ["padlock-luggage", "binoculars", "baseball-bat", "stroller"],
+    "faqs": [
+      {
+        "question": "Can I bring a yoga mat through TSA security?",
+        "answer": "Yes, TSA allows yoga mats through security checkpoints in both carry-on and checked bags."
+      },
+      {
+        "question": "Does a yoga mat count as a carry-on item?",
+        "answer": "Airlines set cabin rules; a mat strapped separately can count toward your carry-on allowance or need to fit inside your bag or overhead bin."
+      },
+      {
+        "question": "Are yoga blocks and straps allowed on planes?",
+        "answer": "Yes, foam or cork yoga blocks and straps are allowed in carry-on and checked luggage."
+      }
+    ]
+  },
+  {
+    "slug": "baseball-bat",
+    "name": "Baseball Bat & Softball Bat",
+    "category": "Personal & Gear",
+    "categorySlug": "personal-and-gear",
+    "carryOnStatus": "NO",
+    "checkedStatus": "YES",
+    "shortAnswer": "No, baseball bats and softball bats are prohibited in carry-on bags and must be packed in checked luggage.",
+    "tsaRuleDetail": "TSA prohibits baseball bats, softball bats, and similar clubs in carry-on luggage because they can be used as blunt weapons in the airplane cabin. You must pack bats inside your checked luggage or a dedicated sports gear bag checked at the airline counter. Remember that long checked bags can sometimes trigger oversized baggage fees depending on your airline and ticket type.",
+    "packingTip": "Pack your bat inside a long padded bat bag or check it securely in checked luggage, and check your airline's checked-bag length rules beforehand to avoid surprise oversize charges.",
+    "amazonKeyword": "padded baseball bat bag travel checked luggage",
+    "relatedSlugs": ["padlock-luggage", "binoculars", "yoga-mat", "golf-clubs"],
+    "faqs": [
+      {
+        "question": "Can I bring a mini baseball bat in my carry-on?",
+        "answer": "TSA prohibits bats in carry-on luggage; pack bats in checked baggage instead."
+      },
+      {
+        "question": "Are baseballs and gloves allowed in carry-on bags?",
+        "answer": "Yes, baseballs, softballs, and gloves are permitted in both carry-on and checked luggage."
+      },
+      {
+        "question": "Do airlines charge extra for checking a baseball bat?",
+        "answer": "Standard checked-bag fees apply, and long bags that exceed airline length limits may incur oversize fees."
+      }
+    ]
+  },
+  {
+    "slug": "toothpaste-tablets",
+    "name": "Toothpaste Tablets",
+    "category": "Toiletries",
+    "categorySlug": "toiletries",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, dry chewable toothpaste tablets are allowed in both carry-on and checked bags with no liquid limit.",
+    "tsaRuleDetail": "TSA allows dry toothpaste tablets in both carry-on and checked luggage on domestic and international flights. Because these tablets are solid and contain no pourable or squeezable liquid paste, they do not count toward your quart-sized 3-1-1 clear liquids bag and are exempt from the 3.4 oz (100 ml) limit. You can pack a small travel tin or pouch of toothpaste tablets inside your regular toiletry bag for quick screening at security checkpoints.",
+    "packingTip": "Keep your toothpaste tablets in an airtight, moisture-proof container inside your carry-on toiletry bag so humidity never softens them during travel.",
+    "amazonKeyword": "zero waste toothpaste tablets travel tin",
+    "relatedSlugs": ["toothpaste", "electric-toothbrush", "mouthwash", "floss-picks"],
+    "faqs": [
+      {
+        "question": "Do toothpaste tablets count as liquids at TSA?",
+        "answer": "No. Dry toothpaste tablets are solid and do not need to go inside your quart-sized liquids bag."
+      },
+      {
+        "question": "Can I bring toothpaste tablets in my carry-on?",
+        "answer": "Yes, toothpaste tablets are permitted in both carry-on and checked luggage."
+      },
+      {
+        "question": "Is there a quantity limit on toothpaste tablets?",
+        "answer": "No, TSA places no quantity limit on personal toothpaste tablets."
+      }
+    ]
+  },
+  {
+    "slug": "waxed-dental-floss",
+    "name": "Waxed Dental Floss & Refills",
+    "category": "Toiletries",
+    "categorySlug": "toiletries",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, dental floss spools, refill bobbins, and water-flosser tips are allowed in both carry-on and checked bags.",
+    "tsaRuleDetail": "TSA permits dental floss dispensers, refill spools, threaders, and orthodontic flossers in both carry-on and checked luggage. Dental floss is not considered a liquid or sharp object, so it passes through security checkpoints without taking up space in your 3-1-1 bag. If you travel with a portable water flosser, empty its reservoir completely before security and keep rechargeable models in your cabin bag.",
+    "packingTip": "Tuck a spare dental floss spool into your personal item pocket so you have an easy post-meal clean during layovers or road trips.",
+    "amazonKeyword": "refillable dental floss dispenser travel pack",
+    "relatedSlugs": ["floss-picks", "electric-toothbrush", "toothpaste", "mouthwash"],
+    "faqs": [
+      {
+        "question": "Can I bring dental floss spools in my carry-on?",
+        "answer": "Yes, dental floss spools and refills are allowed in both carry-on and checked luggage."
+      },
+      {
+        "question": "Does waxed floss count toward the liquid limit?",
+        "answer": "No, dental floss is exempt from TSA liquid rules."
+      },
+      {
+        "question": "Are floss threaders allowed through security?",
+        "answer": "Yes, plastic floss threaders are permitted in carry-on and checked bags."
+      }
+    ]
+  },
+  {
+    "slug": "antibiotic-ointment",
+    "name": "Antibiotic Ointment & First Aid Cream",
+    "category": "Health & Medical",
+    "categorySlug": "health-and-medical",
+    "carryOnStatus": "LIMITED",
+    "checkedStatus": "YES",
+    "shortAnswer": "Small tubes of 3.4 oz (100 ml) or less fit in carry-on bags, while medically necessary larger tubes can be declared.",
+    "tsaRuleDetail": "TSA treats topical ointments, antibiotic creams, and medicated gels as pastes or gels under security screening guidelines. Small travel tubes of 3.4 oz (100 ml) or less easily fit inside your carry-on bag, and medically necessary larger tubes are permitted if you declare them to the TSA officer for additional screening. Full-size tubes are allowed in checked luggage on domestic flights.",
+    "packingTip": "Pack small single-use ointment packets or mini travel tubes inside your first aid pouch so minor scrapes stay covered without extra screening delays.",
+    "amazonKeyword": "travel size antibiotic ointment packets first aid",
+    "relatedSlugs": ["bandages-gauze", "first-aid-kit", "prescription-medication", "motion-sickness-pills"],
+    "faqs": [
+      {
+        "question": "Can I bring antibiotic ointment in my carry-on?",
+        "answer": "Yes, tubes of 3.4 oz (100 ml) or less are allowed, and medically necessary larger tubes can be declared."
+      },
+      {
+        "question": "Are single-use ointment packets allowed?",
+        "answer": "Yes, small packets easily pass security inside your bag or first aid kit."
+      },
+      {
+        "question": "Can I pack full-size cream tubes in checked bags?",
+        "answer": "Yes, larger tubes are allowed in checked luggage."
+      }
+    ]
+  },
+  {
+    "slug": "eye-drops",
+    "name": "Lubricating & Allergy Eye Drops",
+    "category": "Health & Medical",
+    "categorySlug": "health-and-medical",
+    "carryOnStatus": "LIMITED",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, eye drops are allowed in carry-on bags; small bottles fit easily, and medically necessary larger bottles can be declared.",
+    "tsaRuleDetail": "TSA allows over-the-counter and prescription eye drops in both carry-on and checked luggage. Most lubricating and allergy eye drop bottles are small (under 3.4 oz / 100 ml) and fit comfortably in your carry-on bag, while medically necessary larger bottles are exempt from the standard liquid cap if declared to TSA officers for separate screening. Cabin air is dry, so keeping drops accessible in your carry-on is helpful.",
+    "packingTip": "Keep preservative-free single-use eye drop vials in your personal item pocket so dry cabin air does not irritate your eyes mid-flight.",
+    "amazonKeyword": "preservative free eye drops travel vials",
+    "relatedSlugs": ["contact-lens-solution", "prescription-medication", "blackout-sleep-mask", "first-aid-kit"],
+    "faqs": [
+      {
+        "question": "Can I bring eye drops in my carry-on bag?",
+        "answer": "Yes, eye drops are allowed in carry-on and checked bags."
+      },
+      {
+        "question": "Do I need to declare small eye drop bottles?",
+        "answer": "Small bottles under 3.4 oz fit easily, and medically necessary larger bottles should be declared for extra screening."
+      },
+      {
+        "question": "Are single-use eye drop vials allowed?",
+        "answer": "Yes, sealed single-use vials are permitted in carry-on luggage."
+      }
+    ]
+  },
+  {
+    "slug": "electrolyte-packets",
+    "name": "Electrolyte Powder Packets",
+    "category": "Health & Medical",
+    "categorySlug": "health-and-medical",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, dry electrolyte powder packets and tablets are allowed in both carry-on and checked bags with no liquid limit.",
+    "tsaRuleDetail": "TSA allows dry electrolyte drink mixes, hydration packets, and effervescent tablets in both carry-on and checked luggage. Because they arrive dry, you can bring them through security and mix them with water purchased or refilled after clearing the checkpoint. Under TSA powder guidelines, powder containers larger than 12 oz (350 ml) in carry-on bags require separate bin screening, whereas slim individual packets rarely trigger extra checks.",
+    "packingTip": "Slip a few hydration packets into your empty reusable bottle pocket and mix them after passing security so you stay hydrated on flights.",
+    "amazonKeyword": "electrolyte hydration packets travel variety",
+    "relatedSlugs": ["water-bottle", "protein-powder", "vitamins", "snacks-solid-food"],
+    "faqs": [
+      {
+        "question": "Can I bring electrolyte powder packets in my carry-on?",
+        "answer": "Yes, dry powder packets and tablets are allowed in both carry-on and checked bags."
+      },
+      {
+        "question": "Can I mix electrolytes before going through TSA?",
+        "answer": "No, mixed liquid over 3.4 oz (100 ml) is not allowed through security; mix after screening."
+      },
+      {
+        "question": "Do large electrolyte tubs need special screening?",
+        "answer": "Yes, powder containers over 12 oz (350 ml) in carry-on bags must go in a separate bin."
+      }
+    ]
+  },
+  {
+    "slug": "herbal-tea",
+    "name": "Herbal Tea Bags & Sachets",
+    "category": "Food & Drink",
+    "categorySlug": "food-and-drink",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, dry herbal tea bags and sachets are allowed in both carry-on and checked bags, while brewed tea over 3.4 oz cannot pass security.",
+    "tsaRuleDetail": "TSA allows dry herbal tea bags, chamomile sachets, and caffeine-free infusions in both carry-on and checked luggage on domestic flights. Dry tea leaves and herbs are solid items without a liquid cap, though loose herbal powders over 12 oz (350 ml) in carry-on bags may require separate screening. Any brewed liquid tea exceeding 3.4 oz (100 ml) must be finished or discarded before entering the security lane.",
+    "packingTip": "Pack caffeine-free herbal tea sachets in a small zip-top bag inside your personal item so you can ask flight attendants for hot water during evening flights.",
+    "amazonKeyword": "chamomile herbal tea bags travel pack",
+    "relatedSlugs": ["tea-bags", "coffee-beans", "cereal-oatmeal", "snacks-solid-food"],
+    "faqs": [
+      {
+        "question": "Can I bring herbal tea bags in my carry-on?",
+        "answer": "Yes, dry herbal tea bags are permitted in both carry-on and checked luggage."
+      },
+      {
+        "question": "Can I bring hot herbal tea through TSA?",
+        "answer": "No, liquid tea over 3.4 oz (100 ml) is not allowed through security checkpoints."
+      },
+      {
+        "question": "Are herbal tea sachets restricted on domestic flights?",
+        "answer": "No, dry tea sachets have no quantity limit for personal travel."
+      }
+    ]
+  },
+  {
+    "slug": "maple-syrup-honey",
+    "name": "Maple Syrup & Honey Bottles",
+    "category": "Food & Drink",
+    "categorySlug": "food-and-drink",
+    "carryOnStatus": "LIMITED",
+    "checkedStatus": "YES",
+    "shortAnswer": "Maple syrup and honey must be 3.4 oz (100 ml) or less in carry-on bags; larger bottles and jars must go in checked luggage.",
+    "tsaRuleDetail": "TSA classifies maple syrup and honey as liquids under security rules, meaning carry-on containers must be 3.4 oz (100 ml) or smaller and fit inside your quart-sized bag. Standard retail bottles and souvenir jars exceed that size and must be packed in checked luggage for domestic flights. Glass syrup and honey bottles are vulnerable to impact and pressure changes in checked bags.",
+    "packingTip": "Wrap checked syrup and honey bottles in a leak-proof bag and cushion them with soft clothing in the center of your suitcase.",
+    "amazonKeyword": "leak proof bottle protector bag checked luggage",
+    "relatedSlugs": ["honey", "peanut-butter", "hot-sauce", "wine"],
+    "faqs": [
+      {
+        "question": "Can I bring a full bottle of maple syrup in my carry-on?",
+        "answer": "No. Containers over 3.4 oz (100 ml) are not allowed in carry-on bags and must be checked."
+      },
+      {
+        "question": "Are small 2 oz syrup bottles allowed in carry-on?",
+        "answer": "Yes, if they are 3.4 oz (100 ml) or less and fit inside your quart-sized bag."
+      },
+      {
+        "question": "Can I pack honey and syrup in checked luggage?",
+        "answer": "Yes, full-size containers are allowed in checked bags."
+      }
+    ]
+  },
+  {
+    "slug": "condiment-sauces",
+    "name": "Condiment Sauces & Dressings",
+    "category": "Food & Drink",
+    "categorySlug": "food-and-drink",
+    "carryOnStatus": "LIMITED",
+    "checkedStatus": "YES",
+    "shortAnswer": "Sauces, dressings, and dips must be 3.4 oz (100 ml) or less in carry-on bags; larger bottles belong in checked luggage.",
+    "tsaRuleDetail": "TSA treats salad dressings, barbecue sauce, soy sauce, gravy, and dipping sauces as liquids or gels. In carry-on luggage, each container must be 3.4 oz (100 ml) or smaller and fit inside your single quart-sized clear bag. Larger bottles and jars are allowed in checked baggage on domestic flights, while international arrivals may face agricultural or food restrictions depending on ingredients.",
+    "packingTip": "Use small travel squeeze bottles or sealed single-serve packets if you want your own dressing or sauce on a short trip without checking a bag.",
+    "amazonKeyword": "travel condiment squeeze bottles small leak proof",
+    "relatedSlugs": ["hot-sauce", "canned-food", "peanut-butter", "snacks-solid-food"],
+    "faqs": [
+      {
+        "question": "Is salad dressing considered a liquid by TSA?",
+        "answer": "Yes. Dressings and sauces in carry-on bags must be 3.4 oz (100 ml) or less."
+      },
+      {
+        "question": "Can I bring a large bottle of sauce in checked luggage?",
+        "answer": "Yes, full-size sauce bottles are permitted in checked bags."
+      },
+      {
+        "question": "Are small sauce packets allowed through security?",
+        "answer": "Small single-serve packets are typically allowed, whereas larger liquid quantities follow the 3.4 oz limit."
+      }
+    ]
+  },
+  {
+    "slug": "instant-oatmeal",
+    "name": "Instant Oatmeal & Rolled Oats",
+    "category": "Food & Drink",
+    "categorySlug": "food-and-drink",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, dry instant oatmeal packets and rolled oats are allowed in both carry-on and checked bags with no liquid limit.",
+    "tsaRuleDetail": "TSA permits dry instant oatmeal packets, quick oats, and rolled oats in both carry-on and checked luggage. Because dry oats are solid food rather than a liquid, they do not count toward your 3-1-1 liquids bag. Remember that liquid milk or yogurt added to oatmeal must follow the 3.4 oz (100 ml) limit if brought through security, and check customs rules on international trips.",
+    "packingTip": "Pack oatmeal cups or packets in a flat pouch inside your carry-on so you can make a quick hotel breakfast using hot water.",
+    "amazonKeyword": "instant oatmeal cups variety pack travel",
+    "relatedSlugs": ["cereal-oatmeal", "protein-bars", "tea-bags", "snacks-solid-food"],
+    "faqs": [
+      {
+        "question": "Can I bring instant oatmeal packets in my carry-on?",
+        "answer": "Yes, dry oatmeal packets are allowed in both carry-on and checked luggage."
+      },
+      {
+        "question": "Do oats have to be taken out of my bag at TSA?",
+        "answer": "Usually no, though some security lines ask passengers to separate food items for clearer X-ray scans."
+      },
+      {
+        "question": "Can I bring liquid milk over 3.4 oz with oatmeal?",
+        "answer": "No, non-medical liquid milk over 3.4 oz (100 ml) is not permitted through security."
+      }
+    ]
+  },
+  {
+    "slug": "dried-seasonings",
+    "name": "Dried Seasonings & Spice Blends",
+    "category": "Food & Drink",
+    "categorySlug": "food-and-drink",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, dried herbs, spice blends, and salt or pepper are allowed in carry-on and checked bags; powders over 12 oz need extra screening.",
+    "tsaRuleDetail": "TSA allows dried seasonings, herbs, spice mixes, and dry rubs in both carry-on and checked luggage. Small spice containers and packets pass easily through security checkpoints, while any powder in a carry-on container larger than 12 oz (350 ml) must be placed in a separate bin for additional inspection. Liquid marinades or oils over 3.4 oz (100 ml) must go in checked bags.",
+    "packingTip": "Keep spice jars tightly closed inside a zip-top bag so a loosened lid never seasons your clothes inside your suitcase.",
+    "amazonKeyword": "travel spice rack pouches leak proof",
+    "relatedSlugs": ["spices-seasonings", "tea-bags", "canned-food", "instant-oatmeal"],
+    "faqs": [
+      {
+        "question": "Are dry spice blends allowed in carry-on bags?",
+        "answer": "Yes, dry spices and seasonings are allowed in carry-on and checked luggage."
+      },
+      {
+        "question": "What happens if a seasoning container is over 12 oz?",
+        "answer": "Carry-on powder containers larger than 12 oz (350 ml) require separate bin screening."
+      },
+      {
+        "question": "Can I bring liquid seasoning oil in my carry-on?",
+        "answer": "Liquid oils must be 3.4 oz (100 ml) or less in carry-on bags or packed in checked luggage."
+      }
+    ]
+  },
+  {
+    "slug": "travel-first-aid",
+    "name": "Travel First Aid Pouch",
+    "category": "Health & Medical",
+    "categorySlug": "health-and-medical",
+    "carryOnStatus": "LIMITED",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, travel first aid pouches are allowed in carry-on and checked bags if blades are under 4 inches and liquids meet TSA rules.",
+    "tsaRuleDetail": "TSA allows compact first aid pouches in both carry-on and checked luggage, subject to item-by-item screening rules. Sterile wipes, bandages, and gauze are permitted in carry-on bags, whereas scissors must have blades shorter than 4 inches (10 cm) from the pivot point and prohibited sharp tools must be checked. Liquid antiseptics or gels over 3.4 oz (100 ml) are allowed only if medically necessary and declared.",
+    "packingTip": "Audit your first aid pouch before every flight to remove oversized scissors or unlabelled liquid bottles that could slow down security.",
+    "amazonKeyword": "ultralight travel first aid pouch empty",
+    "relatedSlugs": ["first-aid-kit", "bandages-gauze", "antibiotic-ointment", "thermometer"],
+    "faqs": [
+      {
+        "question": "Can I bring a first aid pouch through TSA?",
+        "answer": "Yes, provided scissors have blades under 4 inches and liquids follow TSA or medical declaration rules."
+      },
+      {
+        "question": "Are antiseptic wipes allowed in carry-on luggage?",
+        "answer": "Yes, individually sealed antiseptic wipes are allowed in carry-on and checked bags."
+      },
+      {
+        "question": "Should I check sharp first aid tools?",
+        "answer": "Yes, any blade or tool prohibited in the cabin must go in checked luggage."
+      }
+    ]
+  },
+  {
+    "slug": "digital-thermometer",
+    "name": "Digital Forehead & Oral Thermometer",
+    "category": "Health & Medical",
+    "categorySlug": "health-and-medical",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, digital and non-mercury thermometers are allowed in both carry-on and checked bags; mercury thermometers are prohibited.",
+    "tsaRuleDetail": "TSA permits digital oral, ear, and forehead thermometers in both carry-on and checked luggage on domestic and international flights. Traditional mercury thermometers are strictly banned in both carry-on and checked bags under FAA hazardous materials regulations due to toxicity if broken. Battery-powered digital thermometers do not require special declaration for routine security screening.",
+    "packingTip": "Place your digital thermometer inside a rigid sleeve or small pouch in your carry-on so buttons are not pressed in transit.",
+    "amazonKeyword": "non contact digital thermometer travel case",
+    "relatedSlugs": ["thermometer", "first-aid-kit", "motion-sickness-pills", "prescription-medication"],
+    "faqs": [
+      {
+        "question": "Can I bring a digital thermometer in my carry-on?",
+        "answer": "Yes, digital and infrared thermometers are allowed in carry-on and checked bags."
+      },
+      {
+        "question": "Are mercury thermometers allowed in checked bags?",
+        "answer": "No. Mercury thermometers are banned in both carry-on and checked luggage."
+      },
+      {
+        "question": "Do I need a doctor's note for a thermometer?",
+        "answer": "No special documentation is required for a standard digital thermometer."
+      }
+    ]
+  },
+  {
+    "slug": "sterile-gauze",
+    "name": "Sterile Gauze & Blister Pads",
+    "category": "Health & Medical",
+    "categorySlug": "health-and-medical",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, sterile gauze pads, rolls, and adhesive blister bandages are allowed in both carry-on and checked bags with no limits.",
+    "tsaRuleDetail": "TSA allows sterile gauze pads, rolled gauze, adhesive bandages, and blister cushions in both carry-on and checked luggage. Because these wound-care supplies are dry solids, they are exempt from the 3-1-1 liquids limit and do not require placement inside a quart-sized liquids bag. You can carry as many pads or rolls as needed for your trip.",
+    "packingTip": "Keep a few blister pads and gauze squares in your daypack so new walking shoes do not ruin a sightseeing day.",
+    "amazonKeyword": "sterile gauze pads hydrocolloid bandages travel",
+    "relatedSlugs": ["bandages-gauze", "antibiotic-ointment", "first-aid-kit", "motion-sickness-pills"],
+    "faqs": [
+      {
+        "question": "Are gauze pads allowed in carry-on bags?",
+        "answer": "Yes, sterile gauze and bandages are allowed in carry-on and checked luggage."
+      },
+      {
+        "question": "Do blister bandages count as liquids?",
+        "answer": "No, solid adhesive and hydrocolloid pads are exempt from liquid restrictions."
+      },
+      {
+        "question": "Is there a limit on gauze rolls?",
+        "answer": "No, TSA sets no quantity limit on personal wound-care gauze."
+      }
+    ]
+  },
+  {
+    "slug": "nausea-relief",
+    "name": "Nausea & Motion Relief Tablets",
+    "category": "Health & Medical",
+    "categorySlug": "health-and-medical",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, nausea and motion-relief tablets, chews, and ginger supplements are allowed in carry-on and checked bags.",
+    "tsaRuleDetail": "TSA permits over-the-counter and prescription motion-sickness and nausea tablets, chewables, and ginger capsules in both carry-on and checked luggage. Keeping nausea relief in your carry-on bag ensures easy access during takeoff, turbulence, or winding transfers. Liquid remedies are also allowed, with medically necessary liquids over 3.4 oz (100 ml) permitted when declared for additional screening.",
+    "packingTip": "Keep nausea tablets or ginger chews in an easily reachable pocket of your personal item rather than buried at the bottom of a suitcase.",
+    "amazonKeyword": "ginger chews nausea relief travel pack",
+    "relatedSlugs": ["motion-sickness-pills", "first-aid-kit", "prescription-medication", "vitamins"],
+    "faqs": [
+      {
+        "question": "Can I bring nausea tablets in my carry-on?",
+        "answer": "Yes, tablets, chewables, and capsules are allowed in both carry-on and checked bags."
+      },
+      {
+        "question": "Do I need original packaging for domestic flights?",
+        "answer": "TSA does not strictly require original bottles on domestic flights, though clear labeling is helpful."
+      },
+      {
+        "question": "Are ginger chews allowed through TSA?",
+        "answer": "Yes, ginger chews and candies are solid snacks/remedies allowed in carry-on bags."
+      }
+    ]
+  },
+  {
+    "slug": "tsa-cable-lock",
+    "name": "TSA Cable Luggage Lock",
+    "category": "Personal & Gear",
+    "categorySlug": "personal-and-gear",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, TSA-accepted cable locks are allowed on carry-on and checked bags and help prevent lock damage during inspection.",
+    "tsaRuleDetail": "TSA allows combination and key cable locks on both carry-on and checked luggage. Choosing a TSA-accepted lock lets security officers open and relock your bag with master tools if physical inspection is required, helping avoid broken locks or cut zippers. Flexible steel cables are especially useful for threading through multiple zipper pulls on backpacks or duffels.",
+    "packingTip": "Test your combination before leaving home and avoid writing the code on the luggage tag.",
+    "amazonKeyword": "tsa approved cable luggage lock combination",
+    "relatedSlugs": ["padlock-luggage", "binoculars", "yoga-mat", "luggage-scale"],
+    "faqs": [
+      {
+        "question": "Are cable locks allowed on checked bags?",
+        "answer": "Yes, TSA-accepted cable locks are allowed on checked and carry-on luggage."
+      },
+      {
+        "question": "Can TSA still open a TSA-accepted lock?",
+        "answer": "Yes, TSA officers use designated tools to inspect and relock bags when needed."
+      },
+      {
+        "question": "Can I lock a carry-on bag?",
+        "answer": "Yes, locks are permitted on carry-on bags as well."
+      }
+    ]
+  },
+  {
+    "slug": "travel-binoculars",
+    "name": "Compact Travel Binoculars",
+    "category": "Personal & Gear",
+    "categorySlug": "personal-and-gear",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, compact binoculars are allowed in both carry-on and checked bags; carry-on is safer for delicate glass lenses.",
+    "tsaRuleDetail": "TSA allows compact and standard binoculars in both carry-on and checked luggage on domestic and international flights. Because optical glass and internal prisms can shift or crack under heavy impacts or stacked luggage, many travelers pack binoculars inside a padded case in their carry-on bag. Standard X-ray screening normally allows binoculars to stay inside your bag.",
+    "packingTip": "Keep objective and eyepiece caps attached and store binoculars in a padded pouch inside your cabin bag.",
+    "amazonKeyword": "compact waterproof travel binoculars pouch",
+    "relatedSlugs": ["binoculars", "padlock-luggage", "camera-lens", "action-camera"],
+    "faqs": [
+      {
+        "question": "Can I pack compact binoculars in my carry-on?",
+        "answer": "Yes, binoculars are allowed in both carry-on and checked luggage."
+      },
+      {
+        "question": "Do binoculars need a separate screening bin?",
+        "answer": "Usually no, they can stay inside your bag unless an officer requests a closer look."
+      },
+      {
+        "question": "Are binoculars allowed on international flights?",
+        "answer": "Yes, TSA permits them for travel, though local destination rules always apply."
+      }
+    ]
+  },
+  {
+    "slug": "travel-yoga-mat",
+    "name": "Foldable Travel Yoga Mat",
+    "category": "Personal & Gear",
+    "categorySlug": "personal-and-gear",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, foldable and rolled yoga mats are allowed through TSA in carry-on and checked bags, subject to airline cabin size rules.",
+    "tsaRuleDetail": "TSA allows travel yoga mats through airport security checkpoints in both carry-on and checked luggage. However, individual airlines set cabin size and item allowances, so a mat carried separately can count as a carry-on item or need to fit inside your bag or overhead bin. Thin folding mats pack much more easily than thick rolled mats.",
+    "packingTip": "Choose a thin folding mat that fits flat inside a backpack or suitcase rather than strapping a bulky mat outside your bag.",
+    "amazonKeyword": "thin foldable travel yoga mat compact",
+    "relatedSlugs": ["yoga-mat", "padlock-luggage", "inflatable-neck-pillow", "earplugs-noise"],
+    "faqs": [
+      {
+        "question": "Can I bring a folding yoga mat through TSA?",
+        "answer": "Yes, TSA allows yoga mats through security checkpoints in carry-on and checked bags."
+      },
+      {
+        "question": "Does a yoga mat count toward my airline carry-on limit?",
+        "answer": "It can if carried separately or oversized; check your airline's carry-on allowance."
+      },
+      {
+        "question": "Are yoga straps allowed on planes?",
+        "answer": "Yes, fabric yoga straps are permitted in both carry-on and checked luggage."
+      }
+    ]
+  },
+  {
+    "slug": "softball-bat",
+    "name": "Softball & Baseball Bat",
+    "category": "Personal & Gear",
+    "categorySlug": "personal-and-gear",
+    "carryOnStatus": "NO",
+    "checkedStatus": "YES",
+    "shortAnswer": "No, softball and baseball bats are prohibited in carry-on bags and must be packed in checked luggage.",
+    "tsaRuleDetail": "TSA prohibits softball bats, baseball bats, and similar clubs in carry-on luggage because they can be used as blunt weapons inside the aircraft cabin. Bats must be packed inside checked luggage or a sports equipment bag checked at the airline counter. Long bags may be subject to airline length limits and oversize baggage fees.",
+    "packingTip": "Measure your bat bag against your airline's checked-bag length limit before heading to the airport to avoid unexpected oversize fees.",
+    "amazonKeyword": "softball bat bag padded travel checked",
+    "relatedSlugs": ["baseball-bat", "golf-clubs", "fishing-rod", "hiking-poles"],
+    "faqs": [
+      {
+        "question": "Can I bring a softball bat in my carry-on?",
+        "answer": "No. Bats of any size are banned in carry-on bags and must go in checked luggage."
+      },
+      {
+        "question": "Are softballs and batting gloves allowed in carry-on?",
+        "answer": "Yes, balls and gloves are allowed in both carry-on and checked bags."
+      },
+      {
+        "question": "Do airlines charge oversize fees for bat bags?",
+        "answer": "Fees depend on the airline and total bag length, so check policy before flying."
+      }
+    ]
+  },
+  {
+    "slug": "sd-memory-card",
+    "name": "SD Memory Cards & Card Readers",
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, SD cards, microSD cards, and USB card readers are allowed in both carry-on and checked bags, with carry-on preferred.",
+    "tsaRuleDetail": "TSA allows SD cards, microSD cards, CFexpress cards, and memory card readers in both carry-on and checked luggage. Standard X-ray machines used at security checkpoints do not erase or damage flash memory cards. Because tiny cards are easy to misplace and carry important photos or video footage, keeping them in a dedicated card case inside your carry-on bag is much safer.",
+    "packingTip": "Store memory cards inside a weather-resistant hard card wallet in your carry-on rather than loose pockets where they can get lost or washed.",
+    "amazonKeyword": "sd card holder case waterproof memory card",
+    "relatedSlugs": ["camera-lens", "action-camera", "external-hard-drive", "hdmi-cables"],
+    "faqs": [
+      {
+        "question": "Will TSA X-ray scanners erase my SD cards?",
+        "answer": "No. Standard airport X-ray scanners do not erase data on SD or microSD cards."
+      },
+      {
+        "question": "Can I bring multiple SD cards in my carry-on?",
+        "answer": "Yes, there is no TSA limit on the number of memory cards you carry."
+      },
+      {
+        "question": "Are USB-C SD card readers allowed on flights?",
+        "answer": "Yes, card readers and adapters are allowed in both carry-on and checked bags."
+      }
+    ]
+  },
+  {
+    "slug": "action-camera",
+    "name": "Action Camera & Mounts",
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, action cameras and mounts are allowed in carry-on and checked bags, while spare lithium batteries must stay in carry-on.",
+    "tsaRuleDetail": "TSA allows action cameras, waterproof housings, chest mounts, and mini tripods in both carry-on and checked luggage. Detachable lithium-ion batteries follow FAA rules: batteries installed in a device may go in carry-on or checked bags with accidental activation prevented, whereas spare lithium batteries must stay in your carry-on with terminals protected. Selfie sticks and poles may face airline cabin size checks if extended or long.",
+    "packingTip": "Keep spare action camera batteries inside a small protective case in your carry-on bag and remove any battery before packing a camera in checked luggage.",
+    "amazonKeyword": "action camera carrying case accessories travel",
+    "relatedSlugs": ["drone", "camera-lens", "sd-memory-card", "power-bank"],
+    "faqs": [
+      {
+        "question": "Can spare action camera batteries go in checked luggage?",
+        "answer": "No. Spare lithium-ion batteries must remain in your carry-on bag."
+      },
+      {
+        "question": "Do I need to take an action camera out of my bag at TSA?",
+        "answer": "Usually no, action cameras can stay inside your bag during X-ray screening."
+      },
+      {
+        "question": "Are camera mounts and grips allowed on planes?",
+        "answer": "Yes, standard mounts and grips are allowed in carry-on and checked bags."
+      }
+    ]
+  },
+  {
+    "slug": "travel-router",
+    "name": "Portable Travel Wi-Fi Router",
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, portable travel routers and pocket hotspots are allowed in both carry-on and checked bags, with carry-on safer for batteries.",
+    "tsaRuleDetail": "TSA allows compact travel routers, pocket Wi-Fi hotspots, and network adapters in both carry-on and checked luggage. If your travel router or hotspot contains a built-in lithium-ion battery, FAA guidance recommends keeping it in your carry-on bag—and any checked battery device must be turned off and protected from accidental activation. You normally do not need to remove a travel router from your bag at security.",
+    "packingTip": "Pack your travel router, power cable, and Ethernet cord together in a small tech pouch so hotel or rental setups take just a minute.",
+    "amazonKeyword": "portable travel router wifi 6 compact",
+    "relatedSlugs": ["travel-adapter", "hdmi-cables", "laptop", "external-hard-drive"],
+    "faqs": [
+      {
+        "question": "Are portable travel routers allowed through TSA?",
+        "answer": "Yes, travel routers and mobile hotspots are allowed in carry-on and checked bags."
+      },
+      {
+        "question": "Should a battery-powered hotspot go in carry-on?",
+        "answer": "Yes, carrying battery-powered electronics in your cabin bag is safer and recommended."
+      },
+      {
+        "question": "Do I need to remove a travel router at security?",
+        "answer": "Usually no, it can stay inside your bag during standard X-ray screening."
+      }
+    ]
+  },
+  {
+    "slug": "earplugs-noise",
+    "name": "Foam & Silicone Earplugs",
+    "category": "Personal & Gear",
+    "categorySlug": "personal-and-gear",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, foam, silicone, and acoustic earplugs are allowed in both carry-on and checked luggage with no restrictions.",
+    "tsaRuleDetail": "TSA allows disposable foam earplugs, reusable silicone earplugs, and filtered travel earplugs in both carry-on and checked bags on domestic and international flights. Earplugs are exempt from liquid rules and pose no security issues at airport checkpoints. Many travelers use filtered earplugs during takeoff and landing to help equalize ear pressure.",
+    "packingTip": "Keep a small case of earplugs in your personal item or jacket pocket so you can block engine noise or crying infants right away.",
+    "amazonKeyword": "noise reducing earplugs travel case sleep",
+    "relatedSlugs": ["blackout-sleep-mask", "inflatable-neck-pillow", "earbuds-headphones", "floss-picks"],
+    "faqs": [
+      {
+        "question": "Can I bring earplugs in my carry-on bag?",
+        "answer": "Yes, foam, silicone, and acoustic earplugs are allowed in carry-on and checked bags."
+      },
+      {
+        "question": "Do silicone earplugs count as liquids at TSA?",
+        "answer": "No, solid earplugs are not restricted by the 3-1-1 liquids limit."
+      },
+      {
+        "question": "Can earplugs help with ear pressure on flights?",
+        "answer": "Filtered earplugs can slow pressure changes, while yawning or swallowing also helps equalize ears."
+      }
+    ]
+  },
+  {
+    "slug": "inflatable-neck-pillow",
+    "name": "Inflatable & Memory Foam Neck Pillow",
+    "category": "Personal & Gear",
+    "categorySlug": "personal-and-gear",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, travel neck pillows are allowed through TSA and in the cabin, though airlines may enforce carry-on item limits.",
+    "tsaRuleDetail": "TSA permits inflatable, microbead, and memory foam travel neck pillows in both carry-on and checked luggage. You can wear a neck pillow around your neck or clip it to your bag through security, though officers may ask you to remove it or inspect a dense pillow if needed. Keep in mind that some airlines restrict extra loose items not inside a bag if you already have your full carry-on allowance.",
+    "packingTip": "Choose a compressible or inflatable neck pillow so you can deflate or clip it neatly onto your backpack when walking through the terminal.",
+    "amazonKeyword": "travel neck pillow compact flight memory foam",
+    "relatedSlugs": ["blackout-sleep-mask", "earplugs-noise", "travel-yoga-mat", "umbrella"],
+    "faqs": [
+      {
+        "question": "Can I wear a neck pillow through TSA security?",
+        "answer": "Yes, travel neck pillows are allowed through TSA in carry-on bags or worn around your neck."
+      },
+      {
+        "question": "Does a neck pillow count as a personal item?",
+        "answer": "Policies vary by airline; wearing or clipping it may be fine, while extra loose items can sometimes be questioned at boarding."
+      },
+      {
+        "question": "Are inflatable pillows allowed on airplanes?",
+        "answer": "Yes, inflatable travel pillows are permitted in carry-on and checked luggage."
+      }
+    ]
+  },
+  {
+    "slug": "blackout-sleep-mask",
+    "name": "Contoured Blackout Sleep Mask",
+    "category": "Personal & Gear",
+    "categorySlug": "personal-and-gear",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, cloth, silk, and contoured sleep masks are allowed in both carry-on and checked bags with no restrictions.",
+    "tsaRuleDetail": "TSA allows all types of sleep masks—including silk eye masks, foam contoured masks, and weighted masks—in both carry-on and checked luggage. Because sleep masks are fabric and foam accessories without liquids or sharp components, they pass through security checkpoints without issue. A contoured eye cup design is especially handy on flights so the fabric does not press directly against your eyelids.",
+    "packingTip": "Tuck your sleep mask inside your personal item pouch alongside earplugs so you can rest easily on red-eye flights or bright hotel rooms.",
+    "amazonKeyword": "3d contoured blackout sleep mask travel",
+    "relatedSlugs": ["earplugs-noise", "inflatable-neck-pillow", "eye-drops", "travel-yoga-mat"],
+    "faqs": [
+      {
+        "question": "Are sleep masks allowed in carry-on bags?",
+        "answer": "Yes, sleep masks are allowed in both carry-on and checked luggage."
+      },
+      {
+        "question": "Do I need to remove a sleep mask at TSA?",
+        "answer": "No, it can stay inside your bag or pouch during X-ray screening."
+      },
+      {
+        "question": "Is there any limit on travel sleep masks?",
+        "answer": "No, TSA places no limit on personal sleep masks."
+      }
+    ]
+  },
+  {
+    "slug": "luggage-scale",
+    "name": "Digital Portable Luggage Scale",
+    "category": "Electronics",
+    "categorySlug": "electronics",
+    "carryOnStatus": "YES",
+    "checkedStatus": "YES",
+    "shortAnswer": "Yes, digital and mechanical hanging luggage scales are allowed in both carry-on and checked bags with no restrictions.",
+    "tsaRuleDetail": "TSA permits handheld digital luggage scales and spring/mechanical scales in both carry-on and checked luggage. Most digital luggage scales run on a small coin cell or AAA battery, which easily complies with aviation safety rules. Packing a compact scale helps you weigh suitcases before leaving your hotel or home so you can avoid overweight baggage fees at the check-in counter.",
+    "packingTip": "Keep your digital luggage scale in an outside zippered pocket of your carry-on so you can weigh your bag on the return trip before heading to the airport.",
+    "amazonKeyword": "digital luggage scale portable travel 110lb",
+    "relatedSlugs": ["tsa-cable-lock", "padlock-luggage", "hdmi-cables", "smartwatch"],
+    "faqs": [
+      {
+        "question": "Can I bring a digital luggage scale in my carry-on?",
+        "answer": "Yes, digital and mechanical luggage scales are allowed in carry-on and checked bags."
+      },
+      {
+        "question": "Do I need to remove a luggage scale at TSA?",
+        "answer": "No, it can remain inside your bag during X-ray screening."
+      },
+      {
+        "question": "Are coin-cell batteries in luggage scales allowed?",
+        "answer": "Yes, small batteries powering a luggage scale are permitted in carry-on and checked luggage."
+      }
+    ]
   }
-
 ]
+
+
